@@ -1,0 +1,1001 @@
+User ID,Age,Gender,Location,Language,Education Level,Likes and Reactions,Followed Accounts,Device Usage,Time Spent Online (hrs/weekday),Time Spent Online (hrs/weekend),Click-Through Rates (CTR),Conversion Rates,Ad Interaction Time (sec),Income Level,Top Interests
+1,25-34,Female,Suburban,Hindi,Technical,5640,190,Mobile Only,4.5,1.7,0.193,0.067,25,20k-40k,Digital Marketing
+2,65+,Male,Urban,Hindi,PhD,9501,375,Tablet,0.5,7.7,0.114,0.044,68,0-20k,Data Science
+3,45-54,Female,Suburban,Spanish,Technical,4775,187,Mobile Only,4.5,5.6,0.153,0.095,80,60k-80k,Fitness and Wellness
+4,35-44,Female,Rural,Spanish,PhD,9182,152,Desktop Only,3.1,4.2,0.093,0.061,65,100k+,"Gaming, DIY Crafts"
+5,25-34,Female,Urban,English,Technical,6848,371,Mobile Only,2.0,3.8,0.175,0.022,99,20k-40k,"Fitness and Wellness, Investing and Finance, Gardening, Music Production"
+6,25-34,Female,Suburban,Hindi,Master,6203,257,Mobile + Desktop,3.8,3.3,0.209,0.048,44,100k+,"Gourmet Cooking, Software Engineering, Eco-Friendly Living"
+7,18-24,Female,Suburban,Hindi,Bachelor,1573,136,Mobile + Desktop,2.8,7.9,0.172,0.068,8,100k+,"Gardening, Digital Marketing, Music Production"
+8,55-64,Male,Suburban,Hindi,PhD,3343,272,Desktop Only,2.7,1.9,0.128,0.032,35,40k-60k,"Music Production, Photography, Gaming, Travel and Adventure"
+9,45-54,Female,Urban,Spanish,High School,2281,49,Mobile + Desktop,1.0,3.2,0.115,0.008,159,20k-40k,"Eco-Friendly Living, Gardening"
+10,45-54,Male,Rural,Hindi,Bachelor,9741,421,Mobile + Desktop,2.3,4.4,0.161,0.058,157,100k+,"Digital Marketing, Travel and Adventure"
+11,18-24,Female,Suburban,English,High School,3196,425,Tablet,1.6,4.3,0.17,0.095,73,0-20k,"Eco-Friendly Living, DIY Crafts, Travel and Adventure, Software Engineering"
+12,65+,Male,Suburban,English,Bachelor,6746,364,Desktop Only,0.6,4.3,0.14,0.049,74,20k-40k,"Software Engineering, DIY Crafts"
+13,55-64,Male,Suburban,Spanish,Bachelor,9882,264,Tablet,2.1,2.2,0.156,0.091,9,60k-80k,"Software Engineering, Eco-Friendly Living, Gardening, Photography"
+14,25-34,Female,Suburban,Mandarin,Technical,5982,152,Tablet,0.9,2.0,0.024,0.084,119,20k-40k,"Gourmet Cooking, Travel and Adventure"
+15,25-34,Female,Suburban,Spanish,PhD,6082,249,Mobile Only,1.7,2.8,0.238,0.015,95,20k-40k,"Software Engineering, Digital Marketing"
+16,25-34,Female,Rural,Mandarin,PhD,5898,237,Desktop Only,0.9,7.4,0.198,0.071,12,100k+,"Fashion Modelling, Photography, Digital Marketing"
+17,25-34,Male,Rural,Hindi,Bachelor,9727,350,Mobile Only,1.0,1.8,0.093,0.044,13,40k-60k,"Eco-Friendly Living, Software Engineering, Fitness and Wellness"
+18,35-44,Female,Suburban,Spanish,Master,8515,207,Mobile Only,1.4,6.3,0.141,0.025,19,20k-40k,"Gourmet Cooking, Investing and Finance, Reading and Literature"
+19,35-44,Female,Urban,English,Master,8511,74,Tablet,5.0,6.3,0.012,0.069,109,100k+,"Fitness and Wellness, Travel and Adventure, Gardening, Gaming"
+20,25-34,Female,Rural,Hindi,High School,9946,397,Mobile + Desktop,0.5,6.7,0.01,0.074,11,60k-80k,"Software Engineering, Gaming, Fitness and Wellness, Data Science"
+21,45-54,Female,Urban,English,High School,8556,20,Desktop Only,3.4,7.2,0.063,0.018,76,40k-60k,"Fitness and Wellness, DIY Crafts"
+22,18-24,Female,Rural,Hindi,Technical,9245,117,Mobile + Desktop,1.1,2.8,0.172,0.091,119,80k-100k,"Fitness and Wellness, Fashion Modelling, Gaming"
+23,25-34,Female,Suburban,Spanish,Bachelor,4624,35,Tablet,4.6,2.6,0.213,0.075,19,100k+,Digital Marketing
+24,25-34,Male,Rural,Mandarin,High School,6659,454,Tablet,0.9,4.3,0.14,0.093,169,100k+,"Fashion Modelling, Photography, Reading and Literature"
+25,35-44,Female,Suburban,Hindi,High School,7720,430,Tablet,4.8,2.9,0.133,0.032,87,100k+,"Reading and Literature, Gardening"
+26,45-54,Female,Rural,Mandarin,Bachelor,2874,160,Tablet,3.2,6.1,0.101,0.094,43,80k-100k,Pet Care
+27,25-34,Female,Suburban,Hindi,Technical,5773,230,Tablet,0.5,5.5,0.04,0.037,138,20k-40k,"Fashion Modelling, Reading and Literature"
+28,35-44,Male,Suburban,English,High School,3224,350,Tablet,4.5,7.1,0.03,0.005,61,0-20k,"Investing and Finance, DIY Crafts, Reading and Literature, Fashion Modelling"
+29,35-44,Male,Suburban,English,Technical,8771,246,Mobile + Desktop,2.8,1.6,0.19,0.076,96,60k-80k,"Data Science, Reading and Literature, DIY Crafts, Pet Care"
+30,18-24,Female,Suburban,Hindi,PhD,1453,246,Mobile Only,1.7,7.4,0.232,0.07,85,20k-40k,"Digital Marketing, Software Engineering"
+31,45-54,Male,Urban,Mandarin,Technical,9181,228,Mobile + Desktop,4.0,3.1,0.115,0.06,151,0-20k,"Travel and Adventure, Photography, Fitness and Wellness"
+32,25-34,Male,Suburban,Spanish,Master,3954,496,Desktop Only,4.7,4.4,0.165,0.049,131,20k-40k,"Fitness and Wellness, Eco-Friendly Living, DIY Crafts"
+33,18-24,Female,Urban,Spanish,Master,8234,433,Mobile + Desktop,2.7,4.1,0.229,0.003,163,100k+,"Pet Care, DIY Crafts, Digital Marketing, Investing and Finance"
+34,55-64,Male,Urban,English,Technical,1024,470,Tablet,1.9,6.3,0.023,0.062,79,40k-60k,Gaming
+35,65+,Female,Suburban,Spanish,Master,2270,160,Mobile + Desktop,4.1,3.9,0.193,0.042,83,60k-80k,Data Science
+36,55-64,Male,Urban,English,PhD,5606,132,Mobile Only,3.6,7.6,0.154,0.056,14,60k-80k,"Music Production, DIY Crafts"
+37,25-34,Female,Rural,Spanish,Bachelor,2495,153,Desktop Only,4.5,7.3,0.15,0.043,111,40k-60k,"Investing and Finance, DIY Crafts"
+38,18-24,Female,Suburban,Hindi,Master,8320,487,Mobile + Desktop,3.6,7.1,0.073,0.097,91,20k-40k,"Pet Care, Reading and Literature, Music Production, Eco-Friendly Living"
+39,45-54,Female,Urban,English,Master,8326,198,Mobile Only,1.6,1.5,0.171,0.06,71,0-20k,"Digital Marketing, Reading and Literature, Eco-Friendly Living, Data Science"
+40,35-44,Female,Suburban,English,Technical,5615,264,Mobile + Desktop,4.7,7.0,0.199,0.075,66,80k-100k,"Digital Marketing, Pet Care, Travel and Adventure"
+41,18-24,Male,Suburban,Hindi,PhD,2770,77,Desktop Only,1.0,6.5,0.028,0.094,135,60k-80k,Pet Care
+42,35-44,Female,Suburban,English,Bachelor,3465,113,Mobile + Desktop,1.7,1.7,0.133,0.059,150,0-20k,"Music Production, Digital Marketing, Software Engineering"
+43,18-24,Female,Urban,Spanish,Technical,688,345,Tablet,2.8,1.8,0.025,0.001,157,0-20k,Investing and Finance
+44,55-64,Female,Rural,Spanish,Technical,3238,168,Mobile + Desktop,3.0,1.7,0.218,0.003,111,80k-100k,"Travel and Adventure, Music Production, Gourmet Cooking, Eco-Friendly Living"
+45,25-34,Female,Rural,English,PhD,9195,318,Mobile Only,0.6,1.1,0.127,0.07,152,80k-100k,Digital Marketing
+46,45-54,Male,Urban,Spanish,Bachelor,6763,371,Mobile + Desktop,4.0,4.8,0.202,0.028,97,100k+,"Travel and Adventure, Eco-Friendly Living"
+47,25-34,Male,Suburban,Mandarin,PhD,4186,418,Mobile Only,2.1,7.8,0.092,0.058,90,0-20k,"Reading and Literature, Data Science"
+48,35-44,Male,Urban,English,Bachelor,8631,309,Desktop Only,2.3,4.1,0.031,0.02,125,0-20k,"Digital Marketing, Eco-Friendly Living"
+49,35-44,Male,Urban,Hindi,PhD,4370,405,Mobile + Desktop,4.1,4.8,0.01,0.027,83,100k+,"Photography, DIY Crafts"
+50,25-34,Female,Urban,Mandarin,Technical,6119,99,Desktop Only,2.2,7.8,0.07,0.05,14,60k-80k,"Digital Marketing, Fitness and Wellness, Pet Care, DIY Crafts"
+51,65+,Male,Suburban,English,Technical,656,366,Desktop Only,0.7,2.8,0.061,0.098,153,100k+,"Fitness and Wellness, Travel and Adventure"
+52,45-54,Male,Urban,Hindi,High School,8122,265,Mobile + Desktop,1.3,7.0,0.14,0.062,33,100k+,Investing and Finance
+53,55-64,Female,Suburban,Spanish,Master,5552,362,Mobile Only,4.8,4.8,0.005,0.094,100,80k-100k,Photography
+54,55-64,Female,Urban,Hindi,PhD,3667,229,Desktop Only,0.8,5.0,0.13,0.096,14,80k-100k,"Pet Care, Fashion Modelling, Digital Marketing"
+55,35-44,Male,Rural,Mandarin,High School,3999,18,Desktop Only,2.1,3.4,0.098,0.021,17,20k-40k,Music Production
+56,55-64,Male,Urban,Spanish,Master,6577,21,Mobile + Desktop,2.8,4.9,0.144,0.031,51,60k-80k,Software Engineering
+57,18-24,Female,Urban,English,PhD,7600,334,Mobile + Desktop,2.7,1.5,0.176,0.077,155,80k-100k,"Music Production, Investing and Finance"
+58,25-34,Male,Rural,Spanish,Bachelor,1116,447,Mobile + Desktop,0.5,6.4,0.159,0.087,54,40k-60k,"Travel and Adventure, DIY Crafts"
+59,18-24,Male,Suburban,English,Master,6570,253,Mobile + Desktop,2.8,3.0,0.246,0.052,136,60k-80k,"DIY Crafts, Gourmet Cooking"
+60,25-34,Female,Suburban,English,Technical,2162,191,Mobile + Desktop,2.2,7.2,0.035,0.099,120,60k-80k,Gourmet Cooking
+61,25-34,Male,Urban,Hindi,High School,9130,293,Tablet,4.9,3.6,0.107,0.001,117,100k+,Reading and Literature
+62,25-34,Male,Rural,Hindi,Master,9929,321,Mobile + Desktop,1.2,2.0,0.106,0.03,89,0-20k,"Music Production, Investing and Finance, Data Science, Digital Marketing"
+63,55-64,Male,Suburban,Hindi,Master,4421,108,Mobile Only,2.1,5.9,0.104,0.062,57,80k-100k,"Travel and Adventure, Data Science, Pet Care"
+64,25-34,Male,Urban,Mandarin,Technical,3596,206,Desktop Only,2.4,2.2,0.166,0.047,134,40k-60k,"Gaming, Travel and Adventure, Music Production, Investing and Finance"
+65,25-34,Female,Rural,Mandarin,PhD,1913,491,Mobile Only,2.3,6.3,0.122,0.012,72,40k-60k,"Gaming, Gardening"
+66,35-44,Male,Suburban,Hindi,Bachelor,6356,375,Mobile Only,3.5,7.8,0.129,0.037,83,0-20k,"Investing and Finance, Music Production, Travel and Adventure, DIY Crafts"
+67,18-24,Female,Suburban,Mandarin,Technical,9743,235,Tablet,1.5,6.5,0.108,0.003,61,80k-100k,"Gardening, Investing and Finance, Reading and Literature"
+68,55-64,Male,Rural,Spanish,Bachelor,2413,342,Mobile + Desktop,1.5,1.2,0.248,0.064,101,40k-60k,Music Production
+69,18-24,Male,Rural,Spanish,PhD,9806,112,Desktop Only,3.8,5.2,0.232,0.089,139,0-20k,"Music Production, Fashion Modelling"
+70,65+,Female,Rural,Mandarin,Master,1331,115,Mobile Only,2.8,5.9,0.077,0.088,151,60k-80k,Investing and Finance
+71,45-54,Female,Rural,Mandarin,Bachelor,9937,374,Mobile + Desktop,2.4,6.8,0.028,0.07,176,20k-40k,"Fitness and Wellness, Pet Care"
+72,25-34,Male,Urban,Spanish,High School,5931,377,Mobile + Desktop,1.3,1.4,0.21,0.047,67,20k-40k,"Fitness and Wellness, Gardening, DIY Crafts, Music Production"
+73,18-24,Male,Rural,English,High School,3099,67,Tablet,1.3,4.4,0.249,0.051,69,80k-100k,"Eco-Friendly Living, Travel and Adventure, Software Engineering"
+74,55-64,Female,Suburban,Spanish,Technical,3540,87,Tablet,0.5,4.7,0.073,0.014,43,40k-60k,"Fitness and Wellness, Software Engineering, Gourmet Cooking"
+75,45-54,Female,Suburban,Spanish,PhD,4156,84,Tablet,0.9,2.2,0.089,0.034,113,80k-100k,Gaming
+76,45-54,Female,Urban,Mandarin,Technical,405,51,Desktop Only,3.0,3.3,0.235,0.019,30,60k-80k,Travel and Adventure
+77,45-54,Male,Suburban,Spanish,Technical,1789,431,Mobile Only,4.5,4.1,0.178,0.082,176,100k+,"Gardening, Software Engineering, Pet Care"
+78,18-24,Male,Suburban,Mandarin,Technical,9809,333,Tablet,1.8,6.8,0.074,0.091,16,60k-80k,"Gaming, Fitness and Wellness"
+79,25-34,Female,Rural,Mandarin,High School,4017,190,Tablet,2.0,7.5,0.145,0.054,154,80k-100k,"Investing and Finance, Photography, Reading and Literature, Digital Marketing"
+80,18-24,Female,Suburban,Hindi,High School,7180,42,Tablet,1.0,5.4,0.236,0.073,81,20k-40k,"Investing and Finance, Gaming"
+81,55-64,Male,Urban,Spanish,Technical,8711,80,Mobile Only,2.2,3.8,0.203,0.012,146,40k-60k,"Music Production, Digital Marketing, Reading and Literature, Fashion Modelling"
+82,45-54,Female,Rural,English,High School,3036,65,Mobile Only,0.7,2.8,0.185,0.061,90,40k-60k,"Gourmet Cooking, Photography, Software Engineering, Digital Marketing"
+83,25-34,Female,Rural,Hindi,PhD,3962,114,Tablet,4.6,7.9,0.184,0.07,34,20k-40k,"Fitness and Wellness, Eco-Friendly Living, Reading and Literature"
+84,18-24,Male,Urban,Mandarin,Technical,9742,209,Tablet,3.5,7.9,0.045,0.045,176,100k+,"Eco-Friendly Living, Data Science, Music Production, DIY Crafts"
+85,25-34,Female,Rural,Mandarin,High School,5749,110,Mobile + Desktop,5.0,7.5,0.206,0.024,170,40k-60k,"DIY Crafts, Eco-Friendly Living, Reading and Literature"
+86,25-34,Male,Rural,English,Bachelor,3361,265,Tablet,4.5,6.5,0.069,0.088,174,60k-80k,"Digital Marketing, Gourmet Cooking, Eco-Friendly Living, Music Production"
+87,45-54,Male,Urban,Mandarin,Technical,9456,316,Desktop Only,2.6,3.3,0.233,0.074,56,100k+,"Pet Care, Digital Marketing"
+88,45-54,Female,Rural,Spanish,Technical,1919,83,Desktop Only,2.8,6.7,0.091,0.09,67,0-20k,"Software Engineering, Digital Marketing, Travel and Adventure"
+89,55-64,Female,Urban,Hindi,PhD,1442,180,Tablet,1.4,3.9,0.214,0.082,124,80k-100k,"Digital Marketing, Investing and Finance"
+90,35-44,Male,Urban,Mandarin,Master,5660,386,Mobile Only,2.6,3.3,0.067,0.099,109,80k-100k,Travel and Adventure
+91,18-24,Male,Suburban,Mandarin,Master,2326,152,Mobile + Desktop,4.6,6.2,0.129,0.019,166,100k+,"Eco-Friendly Living, DIY Crafts, Digital Marketing, Fitness and Wellness"
+92,45-54,Female,Suburban,English,PhD,1179,175,Mobile Only,0.7,1.6,0.027,0.009,43,40k-60k,Gardening
+93,45-54,Male,Rural,Spanish,PhD,4306,408,Tablet,4.4,1.3,0.165,0.034,45,0-20k,"DIY Crafts, Pet Care, Reading and Literature, Digital Marketing"
+94,35-44,Male,Rural,Mandarin,PhD,6380,270,Desktop Only,2.0,4.1,0.209,0.013,125,0-20k,Fitness and Wellness
+95,45-54,Female,Urban,English,Master,7335,230,Mobile + Desktop,4.5,4.1,0.18,0.052,112,100k+,"Photography, Pet Care"
+96,35-44,Male,Rural,Mandarin,PhD,913,92,Mobile Only,4.7,7.3,0.131,0.063,169,40k-60k,"Pet Care, Gourmet Cooking, Software Engineering, Reading and Literature"
+97,35-44,Male,Urban,English,High School,5189,191,Mobile Only,3.5,1.9,0.011,0.058,69,80k-100k,"Digital Marketing, Software Engineering"
+98,35-44,Female,Urban,English,Technical,2131,316,Tablet,3.5,1.9,0.233,0.026,122,60k-80k,"Photography, Fitness and Wellness, Eco-Friendly Living"
+99,18-24,Female,Rural,Spanish,Technical,8614,19,Mobile + Desktop,2.5,2.0,0.176,0.091,83,40k-60k,"Gourmet Cooking, Fitness and Wellness"
+100,18-24,Male,Urban,Mandarin,Bachelor,9195,405,Desktop Only,4.3,1.2,0.186,0.002,164,40k-60k,Photography
+101,18-24,Male,Suburban,Spanish,Bachelor,9833,13,Tablet,4.8,1.5,0.199,0.035,12,40k-60k,"DIY Crafts, Gardening, Fashion Modelling"
+102,45-54,Female,Rural,English,Technical,6011,360,Mobile + Desktop,4.0,5.6,0.187,0.072,101,0-20k,Gourmet Cooking
+103,25-34,Male,Suburban,Hindi,High School,2753,411,Mobile Only,3.3,4.0,0.11,0.077,22,60k-80k,"Gardening, Investing and Finance, Fashion Modelling, Data Science"
+104,35-44,Female,Rural,Mandarin,Master,3440,345,Tablet,3.2,6.3,0.183,0.042,177,60k-80k,Travel and Adventure
+105,55-64,Female,Urban,Hindi,Master,7976,497,Mobile Only,4.3,7.9,0.156,0.002,100,80k-100k,Investing and Finance
+106,25-34,Male,Rural,Mandarin,High School,1241,301,Mobile Only,2.9,5.6,0.214,0.062,37,100k+,Music Production
+107,35-44,Female,Suburban,Spanish,Master,9141,290,Tablet,4.1,1.4,0.201,0.006,9,0-20k,"Music Production, Reading and Literature"
+108,45-54,Female,Urban,Spanish,PhD,8658,224,Tablet,2.8,1.7,0.01,0.011,131,80k-100k,"Pet Care, DIY Crafts"
+109,25-34,Male,Rural,Spanish,Technical,2997,469,Tablet,0.8,7.2,0.095,0.065,78,40k-60k,"Investing and Finance, Fashion Modelling"
+110,18-24,Male,Rural,Spanish,Technical,9381,107,Tablet,2.2,4.7,0.009,0.031,130,80k-100k,"Music Production, Reading and Literature, Photography"
+111,25-34,Male,Rural,Spanish,High School,4141,429,Tablet,2.5,6.8,0.026,0.035,168,0-20k,"Fashion Modelling, Pet Care, Software Engineering"
+112,25-34,Female,Suburban,Hindi,Master,2138,110,Mobile Only,1.1,7.0,0.15,0.049,155,100k+,"Pet Care, Gaming, Gardening"
+113,55-64,Female,Suburban,Spanish,Bachelor,4370,460,Desktop Only,1.0,7.5,0.218,0.098,172,80k-100k,Gaming
+114,55-64,Male,Rural,English,Bachelor,4783,18,Desktop Only,2.9,7.6,0.03,0.097,9,20k-40k,"Pet Care, Reading and Literature, Photography"
+115,45-54,Male,Urban,English,Master,594,70,Tablet,0.9,4.9,0.113,0.042,38,20k-40k,"Software Engineering, Pet Care"
+116,55-64,Female,Urban,Hindi,Bachelor,7216,318,Mobile Only,1.9,3.4,0.228,0.027,28,40k-60k,"Gaming, Data Science, Fitness and Wellness, Pet Care"
+117,55-64,Female,Suburban,Mandarin,High School,1884,155,Desktop Only,3.9,7.7,0.204,0.03,149,80k-100k,"Data Science, Pet Care"
+118,25-34,Male,Urban,English,High School,3610,436,Desktop Only,4.8,4.8,0.13,0.027,99,60k-80k,"Music Production, Gaming, Pet Care"
+119,55-64,Male,Suburban,Mandarin,Master,3886,428,Desktop Only,3.7,1.4,0.193,0.053,75,80k-100k,Travel and Adventure
+120,35-44,Female,Rural,Hindi,Bachelor,5366,72,Mobile Only,5.0,5.5,0.131,0.061,96,100k+,Data Science
+121,55-64,Male,Suburban,Mandarin,High School,9290,130,Tablet,3.6,5.1,0.04,0.049,129,60k-80k,"Reading and Literature, Digital Marketing, Travel and Adventure, Software Engineering"
+122,55-64,Male,Suburban,Mandarin,High School,5528,235,Tablet,1.8,7.3,0.031,0.041,26,100k+,Eco-Friendly Living
+123,25-34,Female,Rural,Mandarin,PhD,6781,114,Tablet,3.5,5.6,0.047,0.021,19,100k+,"Gaming, Fashion Modelling, Software Engineering, Music Production"
+124,18-24,Male,Urban,Mandarin,PhD,6993,471,Mobile + Desktop,3.7,3.4,0.088,0.048,105,80k-100k,"DIY Crafts, Investing and Finance, Gaming, Photography"
+125,25-34,Female,Suburban,Hindi,High School,9743,269,Mobile + Desktop,2.2,7.8,0.233,0.034,19,0-20k,"Digital Marketing, Gardening"
+126,35-44,Female,Suburban,English,Master,4758,358,Mobile + Desktop,0.6,6.6,0.2,0.054,157,60k-80k,"Gardening, Pet Care, Fitness and Wellness"
+127,55-64,Male,Rural,Spanish,Technical,7182,434,Mobile Only,3.7,5.4,0.108,0.068,57,0-20k,"Gardening, Software Engineering, DIY Crafts, Travel and Adventure"
+128,55-64,Female,Urban,Mandarin,Technical,6969,264,Desktop Only,0.6,3.1,0.123,0.063,153,40k-60k,"Eco-Friendly Living, Data Science, Digital Marketing"
+129,18-24,Female,Suburban,English,High School,7707,438,Desktop Only,3.3,3.6,0.066,0.046,106,40k-60k,"Gaming, Software Engineering, Data Science"
+130,35-44,Female,Rural,English,High School,7769,443,Mobile Only,1.2,5.7,0.176,0.056,117,80k-100k,"Photography, Fashion Modelling, Travel and Adventure"
+131,35-44,Male,Suburban,Hindi,High School,6319,216,Mobile Only,3.0,1.5,0.201,0.028,36,60k-80k,Investing and Finance
+132,25-34,Male,Rural,English,Master,4634,37,Tablet,2.8,2.8,0.06,0.002,25,20k-40k,"DIY Crafts, Gourmet Cooking, Pet Care"
+133,18-24,Female,Urban,Hindi,PhD,6079,179,Tablet,0.6,6.0,0.01,0.063,176,0-20k,"Data Science, Fitness and Wellness"
+134,25-34,Male,Urban,Mandarin,High School,8990,345,Mobile + Desktop,2.1,4.4,0.156,0.025,87,0-20k,"Data Science, Gaming, Photography"
+135,55-64,Male,Urban,Mandarin,High School,1412,85,Mobile + Desktop,3.2,3.8,0.141,0.067,18,60k-80k,"Fashion Modelling, Photography"
+136,25-34,Male,Urban,Spanish,Bachelor,3062,125,Mobile Only,4.3,2.1,0.101,0.075,19,0-20k,"Software Engineering, Gourmet Cooking, Investing and Finance, Reading and Literature"
+137,35-44,Male,Suburban,Spanish,Master,3038,78,Mobile + Desktop,4.5,4.1,0.161,0.092,152,40k-60k,"Eco-Friendly Living, Music Production, DIY Crafts, Gaming"
+138,45-54,Female,Suburban,Spanish,High School,3297,363,Desktop Only,2.7,6.4,0.138,0.096,38,0-20k,Gardening
+139,25-34,Male,Urban,English,Bachelor,5396,243,Mobile Only,3.8,2.8,0.063,0.001,168,20k-40k,"Music Production, Gaming"
+140,65+,Female,Urban,Mandarin,Technical,7304,10,Mobile Only,1.9,1.0,0.099,0.099,87,60k-80k,Digital Marketing
+141,65+,Male,Urban,Hindi,High School,5830,176,Desktop Only,2.0,5.7,0.107,0.068,13,20k-40k,"DIY Crafts, Gardening"
+142,25-34,Male,Suburban,Spanish,High School,226,361,Tablet,1.4,7.8,0.22,0.064,162,80k-100k,Fitness and Wellness
+143,35-44,Male,Urban,Hindi,Bachelor,5702,227,Tablet,3.0,5.2,0.24,0.002,81,60k-80k,"Fashion Modelling, Eco-Friendly Living, DIY Crafts"
+144,25-34,Male,Urban,Hindi,Master,1291,282,Desktop Only,1.9,1.8,0.223,0.086,167,40k-60k,"Music Production, Eco-Friendly Living, Reading and Literature"
+145,25-34,Female,Urban,Spanish,High School,2739,377,Desktop Only,0.9,3.2,0.18,0.015,145,60k-80k,Digital Marketing
+146,18-24,Female,Rural,Mandarin,Technical,1466,260,Mobile + Desktop,3.6,7.1,0.146,0.084,178,100k+,"Gardening, Software Engineering"
+147,45-54,Male,Urban,Spanish,High School,9311,356,Mobile Only,3.7,2.6,0.172,0.002,13,40k-60k,"Photography, Software Engineering"
+148,35-44,Female,Rural,Hindi,Technical,6553,353,Mobile + Desktop,2.1,5.3,0.235,0.065,40,0-20k,"Gardening, Software Engineering, Data Science, Fashion Modelling"
+149,18-24,Male,Rural,Spanish,PhD,6771,428,Desktop Only,0.8,3.8,0.062,0.043,121,0-20k,"Fitness and Wellness, Reading and Literature, Travel and Adventure"
+150,25-34,Male,Urban,Hindi,PhD,6783,183,Mobile + Desktop,2.4,2.5,0.134,0.02,7,0-20k,Pet Care
+151,55-64,Female,Rural,Hindi,Technical,4639,179,Desktop Only,2.5,6.7,0.172,0.011,23,40k-60k,Gaming
+152,25-34,Female,Urban,Spanish,Master,8976,255,Mobile + Desktop,3.5,6.2,0.17,0.044,160,20k-40k,Gourmet Cooking
+153,18-24,Male,Suburban,English,High School,2987,432,Mobile + Desktop,1.9,5.6,0.063,0.012,27,40k-60k,"Music Production, Data Science, Reading and Literature"
+154,35-44,Male,Suburban,Spanish,High School,9754,99,Tablet,3.6,2.7,0.147,0.049,108,20k-40k,Digital Marketing
+155,65+,Female,Suburban,English,PhD,4186,58,Desktop Only,4.4,1.7,0.199,0.063,139,100k+,"Gourmet Cooking, Digital Marketing, Fitness and Wellness, Music Production"
+156,25-34,Female,Suburban,Hindi,Technical,2361,455,Mobile + Desktop,1.6,5.0,0.119,0.083,109,100k+,"Reading and Literature, Pet Care"
+157,45-54,Female,Rural,Hindi,High School,4280,303,Mobile Only,4.9,4.9,0.198,0.068,146,100k+,"Pet Care, Gardening, Gaming, DIY Crafts"
+158,45-54,Female,Urban,English,High School,2941,416,Mobile + Desktop,2.2,2.3,0.09,0.007,50,80k-100k,"Gourmet Cooking, Eco-Friendly Living, Data Science, Gaming"
+159,25-34,Female,Urban,Hindi,Master,6140,159,Mobile + Desktop,1.7,1.4,0.235,0.031,147,60k-80k,"Eco-Friendly Living, Digital Marketing"
+160,45-54,Male,Urban,English,Bachelor,3660,141,Mobile Only,2.4,1.6,0.133,0.029,19,20k-40k,Software Engineering
+161,25-34,Male,Suburban,English,PhD,4858,442,Desktop Only,0.9,7.9,0.149,0.092,55,100k+,"Reading and Literature, Software Engineering, Gaming"
+162,45-54,Male,Suburban,Hindi,PhD,726,68,Tablet,1.1,6.5,0.008,0.087,114,40k-60k,"Pet Care, Software Engineering"
+163,45-54,Female,Urban,Mandarin,Bachelor,5114,466,Tablet,2.4,7.5,0.043,0.037,12,100k+,Gourmet Cooking
+164,35-44,Female,Suburban,English,High School,1475,333,Tablet,3.9,2.4,0.158,0.007,73,80k-100k,"Digital Marketing, Fitness and Wellness, Fashion Modelling, Music Production"
+165,18-24,Female,Urban,Spanish,Master,1281,208,Mobile Only,4.6,7.7,0.105,0.089,67,60k-80k,"Digital Marketing, Music Production, Gaming"
+166,55-64,Female,Urban,Spanish,Master,5808,224,Mobile + Desktop,3.5,2.0,0.127,0.089,72,40k-60k,"Data Science, DIY Crafts, Reading and Literature"
+167,25-34,Female,Urban,Hindi,PhD,590,395,Desktop Only,1.0,4.6,0.016,0.085,148,20k-40k,Fashion Modelling
+168,25-34,Female,Urban,Mandarin,Master,3829,58,Mobile + Desktop,3.5,6.8,0.209,0.085,156,20k-40k,DIY Crafts
+169,18-24,Male,Urban,Hindi,Bachelor,6074,481,Tablet,3.4,3.4,0.196,0.048,10,80k-100k,Investing and Finance
+170,35-44,Female,Urban,Mandarin,High School,3634,241,Mobile + Desktop,4.1,4.0,0.046,0.018,123,80k-100k,"Gourmet Cooking, Travel and Adventure, Gardening, Gaming"
+171,45-54,Female,Urban,English,Bachelor,3396,256,Mobile Only,4.2,1.9,0.159,0.048,61,0-20k,"Fashion Modelling, Fitness and Wellness, Investing and Finance, Data Science"
+172,18-24,Male,Suburban,English,Technical,2040,391,Mobile Only,4.4,1.9,0.205,0.049,35,20k-40k,"Reading and Literature, Gourmet Cooking"
+173,35-44,Female,Urban,English,PhD,5114,488,Desktop Only,2.4,5.3,0.16,0.049,10,40k-60k,"Travel and Adventure, Fitness and Wellness, Photography, Digital Marketing"
+174,25-34,Male,Urban,English,Master,1982,248,Desktop Only,3.6,5.7,0.078,0.054,161,20k-40k,Software Engineering
+175,45-54,Female,Suburban,Spanish,Technical,5008,424,Tablet,1.7,6.4,0.164,0.026,71,20k-40k,"Pet Care, Software Engineering, Music Production"
+176,25-34,Male,Suburban,Spanish,Master,3087,376,Desktop Only,5.0,4.9,0.053,0.037,135,80k-100k,Gaming
+177,45-54,Female,Suburban,Hindi,High School,5685,177,Mobile + Desktop,1.3,5.5,0.08,0.043,160,0-20k,"Music Production, Gaming"
+178,25-34,Female,Urban,Mandarin,High School,3259,57,Mobile Only,0.5,1.1,0.06,0.013,78,80k-100k,"Photography, Fashion Modelling"
+179,55-64,Male,Rural,English,High School,4630,60,Mobile Only,1.2,2.1,0.139,0.046,118,0-20k,"Fashion Modelling, Software Engineering"
+180,18-24,Male,Rural,English,Master,781,308,Mobile Only,4.0,7.9,0.027,0.081,101,40k-60k,"Gardening, Software Engineering, Gaming"
+181,25-34,Female,Suburban,Mandarin,Technical,5354,107,Desktop Only,2.5,1.5,0.233,0.083,84,20k-40k,Pet Care
+182,18-24,Female,Rural,Mandarin,High School,1173,448,Mobile Only,2.5,5.8,0.083,0.041,127,0-20k,"Pet Care, DIY Crafts, Digital Marketing"
+183,55-64,Male,Suburban,Hindi,Technical,2487,225,Mobile Only,4.8,2.2,0.055,0.052,142,0-20k,Reading and Literature
+184,55-64,Female,Urban,Mandarin,Master,2793,186,Mobile Only,4.6,6.0,0.124,0.003,37,80k-100k,"Investing and Finance, Gaming, Music Production, Data Science"
+185,25-34,Female,Rural,English,Technical,9662,389,Tablet,1.9,5.9,0.069,0.067,144,60k-80k,"Gardening, Gaming, Pet Care"
+186,45-54,Female,Urban,English,Master,4440,483,Tablet,1.4,2.6,0.134,0.04,48,0-20k,"Travel and Adventure, Investing and Finance, Gourmet Cooking, Digital Marketing"
+187,55-64,Male,Rural,English,Master,2256,89,Desktop Only,4.3,2.9,0.087,0.045,17,80k-100k,Software Engineering
+188,35-44,Female,Urban,English,PhD,8066,194,Mobile Only,4.6,5.6,0.033,0.087,156,60k-80k,"Reading and Literature, Music Production, Fashion Modelling, Investing and Finance"
+189,35-44,Female,Rural,English,Master,2680,376,Desktop Only,2.9,3.7,0.066,0.046,176,100k+,"Digital Marketing, Software Engineering, Gardening"
+190,25-34,Female,Urban,Hindi,Master,7357,470,Mobile Only,3.3,2.4,0.11,0.002,61,100k+,"Pet Care, Fitness and Wellness"
+191,18-24,Female,Urban,English,Bachelor,2259,408,Mobile Only,1.7,6.1,0.008,0.023,100,60k-80k,"Eco-Friendly Living, Photography, Gourmet Cooking, Software Engineering"
+192,55-64,Male,Rural,Hindi,High School,6872,36,Mobile Only,4.1,2.1,0.193,0.048,148,20k-40k,DIY Crafts
+193,55-64,Female,Urban,English,PhD,1727,461,Desktop Only,3.3,7.0,0.155,0.042,113,100k+,"Pet Care, Music Production, Gardening, Digital Marketing"
+194,45-54,Female,Urban,Spanish,PhD,8319,473,Desktop Only,2.8,4.6,0.15,0.086,124,100k+,"Fitness and Wellness, Music Production, Gourmet Cooking, Gaming"
+195,25-34,Male,Urban,Spanish,PhD,7180,457,Mobile Only,0.8,1.7,0.137,0.054,104,20k-40k,"Pet Care, Fitness and Wellness"
+196,25-34,Female,Rural,Spanish,Bachelor,2085,487,Mobile + Desktop,4.6,5.9,0.148,0.069,153,0-20k,"Investing and Finance, Pet Care, Data Science"
+197,45-54,Female,Rural,Spanish,Master,9813,423,Desktop Only,3.3,4.6,0.234,0.047,115,60k-80k,Digital Marketing
+198,55-64,Female,Urban,Hindi,High School,8588,429,Tablet,1.4,3.1,0.002,0.044,55,60k-80k,"Eco-Friendly Living, Gourmet Cooking, Gardening"
+199,55-64,Female,Urban,Hindi,Technical,2281,204,Desktop Only,3.2,4.0,0.012,0.045,25,40k-60k,"Fashion Modelling, Fitness and Wellness, Data Science"
+200,45-54,Female,Rural,Mandarin,Master,2396,223,Mobile Only,3.5,3.1,0.048,0.041,64,0-20k,"Reading and Literature, Fitness and Wellness, Digital Marketing, Pet Care"
+201,45-54,Female,Rural,English,Bachelor,7264,378,Mobile + Desktop,2.9,2.8,0.042,0.054,25,80k-100k,"Music Production, Gardening"
+202,18-24,Male,Urban,Spanish,Master,2697,351,Mobile Only,3.7,2.1,0.045,0.025,111,80k-100k,"Fashion Modelling, Gardening, Music Production, Data Science"
+203,25-34,Male,Urban,Hindi,Master,1001,123,Tablet,3.1,3.5,0.168,0.089,130,40k-60k,"Investing and Finance, Music Production"
+204,55-64,Female,Urban,English,Bachelor,6160,251,Desktop Only,4.8,2.8,0.115,0.033,138,20k-40k,"Reading and Literature, Software Engineering, Fitness and Wellness, Digital Marketing"
+205,45-54,Male,Suburban,English,PhD,9390,133,Desktop Only,0.7,5.8,0.248,0.015,77,80k-100k,"Music Production, Gardening"
+206,18-24,Male,Rural,Hindi,PhD,1777,314,Mobile Only,1.0,5.8,0.057,0.01,80,60k-80k,"Music Production, Gardening, Fashion Modelling"
+207,18-24,Male,Suburban,Spanish,High School,2981,85,Mobile Only,1.3,4.5,0.078,0.001,82,100k+,"DIY Crafts, Gardening, Photography"
+208,45-54,Female,Rural,Mandarin,High School,5722,320,Tablet,3.6,6.4,0.246,0.042,138,80k-100k,"Gaming, Photography"
+209,18-24,Female,Rural,English,PhD,8152,478,Mobile + Desktop,3.4,6.9,0.208,0.019,69,0-20k,Music Production
+210,25-34,Female,Rural,Mandarin,Technical,1478,321,Tablet,4.5,5.1,0.117,0.002,90,20k-40k,Reading and Literature
+211,35-44,Male,Rural,Spanish,Master,1348,205,Mobile + Desktop,3.8,5.3,0.139,0.052,38,80k-100k,Digital Marketing
+212,45-54,Male,Rural,Spanish,Technical,5750,360,Desktop Only,2.8,3.0,0.211,0.068,60,40k-60k,"Gourmet Cooking, Photography, Eco-Friendly Living"
+213,45-54,Male,Rural,Mandarin,Master,6179,53,Mobile + Desktop,5.0,7.3,0.12,0.009,79,0-20k,"Reading and Literature, Gourmet Cooking, Investing and Finance, Fitness and Wellness"
+214,25-34,Male,Rural,Spanish,PhD,9556,424,Mobile + Desktop,1.7,1.2,0.052,0.046,7,100k+,Software Engineering
+215,45-54,Male,Suburban,English,High School,7136,195,Desktop Only,4.2,3.4,0.207,0.074,174,0-20k,"Digital Marketing, DIY Crafts"
+216,25-34,Female,Urban,Mandarin,High School,6587,352,Desktop Only,2.4,6.1,0.134,0.099,10,0-20k,"Fitness and Wellness, Gaming, Digital Marketing, Pet Care"
+217,25-34,Female,Urban,Spanish,Technical,1158,255,Desktop Only,3.4,1.6,0.038,0.067,10,0-20k,"Photography, Software Engineering"
+218,45-54,Female,Suburban,Mandarin,High School,2148,446,Tablet,3.8,2.3,0.126,0.024,152,80k-100k,"Fitness and Wellness, Data Science, Eco-Friendly Living"
+219,45-54,Female,Suburban,English,PhD,6215,93,Desktop Only,3.4,5.1,0.103,0.072,153,60k-80k,"Fashion Modelling, Data Science"
+220,55-64,Male,Suburban,Spanish,Technical,4348,216,Mobile Only,1.1,4.9,0.219,0.06,6,60k-80k,Investing and Finance
+221,45-54,Male,Suburban,English,Master,2576,160,Desktop Only,2.5,6.2,0.032,0.021,94,60k-80k,"Photography, Music Production, Gardening, Digital Marketing"
+222,35-44,Female,Rural,Spanish,High School,4703,165,Desktop Only,3.0,6.7,0.219,0.085,60,0-20k,"Gardening, DIY Crafts, Fashion Modelling, Pet Care"
+223,18-24,Male,Urban,Hindi,Bachelor,3653,25,Desktop Only,4.3,1.9,0.128,0.043,100,80k-100k,Software Engineering
+224,25-34,Female,Rural,Spanish,High School,320,174,Mobile + Desktop,2.5,1.1,0.101,0.096,14,0-20k,Gaming
+225,25-34,Female,Urban,Mandarin,Master,4918,414,Tablet,4.6,5.8,0.04,0.072,91,40k-60k,"Travel and Adventure, Eco-Friendly Living, Data Science"
+226,25-34,Female,Urban,Spanish,Technical,7292,472,Desktop Only,2.5,3.1,0.175,0.064,74,60k-80k,"Software Engineering, Data Science, Travel and Adventure"
+227,65+,Male,Suburban,English,Master,4723,154,Tablet,3.0,5.4,0.232,0.073,155,100k+,Gaming
+228,25-34,Female,Rural,English,Bachelor,7449,46,Mobile Only,4.1,2.1,0.094,0.048,117,0-20k,"Gardening, Investing and Finance, Fitness and Wellness"
+229,55-64,Female,Suburban,Spanish,PhD,5718,342,Mobile Only,3.1,4.3,0.06,0.051,34,60k-80k,"Data Science, Fitness and Wellness, Eco-Friendly Living"
+230,45-54,Female,Rural,Mandarin,High School,9956,412,Desktop Only,4.8,4.5,0.139,0.085,132,80k-100k,"Software Engineering, Data Science, Fashion Modelling, Travel and Adventure"
+231,45-54,Female,Urban,Hindi,Technical,7309,423,Mobile Only,3.5,5.1,0.199,0.068,82,0-20k,"Travel and Adventure, Music Production, Fashion Modelling, Gourmet Cooking"
+232,35-44,Male,Suburban,Mandarin,PhD,4676,54,Tablet,2.9,4.6,0.001,0.09,169,0-20k,Reading and Literature
+233,35-44,Male,Suburban,Hindi,Master,1971,411,Mobile + Desktop,0.6,4.5,0.158,0.089,59,40k-60k,"Pet Care, Fitness and Wellness, Investing and Finance"
+234,35-44,Male,Urban,English,Technical,8015,215,Desktop Only,2.4,3.3,0.149,0.098,53,40k-60k,"Gourmet Cooking, Music Production, Data Science, Fashion Modelling"
+235,25-34,Female,Urban,Mandarin,PhD,1562,71,Mobile Only,1.8,1.5,0.08,0.07,38,0-20k,"Digital Marketing, Eco-Friendly Living, Gardening"
+236,45-54,Female,Urban,Hindi,Technical,5621,429,Tablet,3.9,1.6,0.113,0.05,109,0-20k,Gardening
+237,25-34,Female,Suburban,Spanish,Bachelor,8636,365,Tablet,1.4,4.0,0.062,0.017,176,40k-60k,"Fitness and Wellness, Gardening"
+238,18-24,Female,Rural,English,Bachelor,8336,477,Mobile Only,1.4,3.5,0.197,0.071,26,0-20k,"Gaming, Reading and Literature, Travel and Adventure, Software Engineering"
+239,45-54,Male,Suburban,Spanish,High School,7913,317,Tablet,1.4,4.6,0.159,0.029,35,60k-80k,"Investing and Finance, Data Science, Software Engineering"
+240,25-34,Male,Rural,English,High School,2168,28,Tablet,1.1,3.1,0.133,0.028,139,20k-40k,"Gourmet Cooking, Pet Care, Eco-Friendly Living"
+241,55-64,Male,Suburban,Mandarin,Bachelor,5853,374,Desktop Only,1.9,5.8,0.098,0.024,109,60k-80k,"Fitness and Wellness, Photography, Investing and Finance, Software Engineering"
+242,65+,Male,Suburban,Mandarin,Technical,7337,309,Tablet,4.5,7.0,0.073,0.088,153,80k-100k,"Music Production, Software Engineering"
+243,55-64,Male,Urban,English,Bachelor,7116,16,Mobile Only,4.0,3.1,0.206,0.087,20,40k-60k,"Photography, Fitness and Wellness, Pet Care"
+244,25-34,Male,Rural,English,High School,6291,258,Desktop Only,3.8,2.4,0.113,0.063,24,40k-60k,"Fitness and Wellness, DIY Crafts, Music Production"
+245,18-24,Female,Suburban,English,Bachelor,1614,437,Mobile Only,4.1,1.8,0.125,0.047,47,80k-100k,DIY Crafts
+246,55-64,Female,Suburban,Mandarin,Bachelor,2698,126,Mobile + Desktop,1.7,5.3,0.13,0.067,176,0-20k,Photography
+247,35-44,Male,Urban,Hindi,Technical,1101,77,Mobile Only,4.5,4.1,0.112,0.061,51,100k+,"DIY Crafts, Gourmet Cooking, Music Production"
+248,65+,Female,Urban,Spanish,PhD,1133,43,Mobile Only,1.1,2.3,0.064,0.042,118,40k-60k,"Gourmet Cooking, Digital Marketing, Music Production, DIY Crafts"
+249,65+,Male,Rural,Spanish,High School,6999,203,Desktop Only,2.0,5.6,0.03,0.038,23,20k-40k,"Digital Marketing, Photography, Gardening, DIY Crafts"
+250,55-64,Male,Suburban,Mandarin,Technical,8565,334,Tablet,3.1,2.0,0.025,0.038,52,80k-100k,"Digital Marketing, Data Science, Eco-Friendly Living"
+251,25-34,Female,Rural,Spanish,Bachelor,5151,64,Mobile Only,1.0,4.9,0.189,0.059,143,20k-40k,Gourmet Cooking
+252,25-34,Female,Suburban,English,Bachelor,4576,275,Desktop Only,3.8,4.7,0.056,0.065,161,0-20k,"Gaming, Fitness and Wellness, Digital Marketing, Music Production"
+253,55-64,Female,Rural,Hindi,PhD,578,489,Mobile + Desktop,2.2,6.1,0.014,0.045,49,100k+,Investing and Finance
+254,25-34,Male,Urban,Spanish,High School,615,51,Desktop Only,4.0,1.4,0.199,0.097,168,20k-40k,"Photography, Software Engineering, DIY Crafts, Pet Care"
+255,25-34,Male,Suburban,Hindi,High School,1291,306,Desktop Only,2.7,7.2,0.039,0.008,91,100k+,"Music Production, Gaming"
+256,35-44,Male,Rural,English,Master,6397,470,Tablet,1.3,5.9,0.156,0.035,19,60k-80k,"Gaming, Fashion Modelling, Gardening"
+257,55-64,Male,Urban,Spanish,High School,9703,240,Mobile Only,3.8,2.5,0.085,0.042,114,20k-40k,"Music Production, Fashion Modelling"
+258,45-54,Male,Urban,Mandarin,PhD,371,462,Mobile + Desktop,1.6,2.3,0.032,0.002,176,40k-60k,"Digital Marketing, Gaming, Reading and Literature, Fashion Modelling"
+259,35-44,Female,Rural,Hindi,Master,8434,387,Desktop Only,2.7,4.0,0.104,0.036,100,40k-60k,"DIY Crafts, Photography"
+260,18-24,Male,Suburban,English,Master,7878,403,Mobile Only,0.8,6.7,0.004,0.027,172,20k-40k,"Data Science, Software Engineering"
+261,45-54,Female,Suburban,Hindi,Bachelor,6108,19,Mobile Only,3.3,6.9,0.21,0.051,106,100k+,"Fitness and Wellness, Gaming, Investing and Finance, Travel and Adventure"
+262,65+,Female,Urban,Spanish,Bachelor,8087,367,Desktop Only,3.5,4.6,0.128,0.034,90,20k-40k,Data Science
+263,18-24,Female,Suburban,Spanish,High School,3432,484,Mobile Only,2.2,7.0,0.035,0.073,146,60k-80k,"Travel and Adventure, Fashion Modelling"
+264,35-44,Male,Suburban,Mandarin,Master,887,453,Desktop Only,4.8,1.0,0.059,0.051,85,60k-80k,Photography
+265,55-64,Female,Suburban,English,Bachelor,6322,137,Desktop Only,4.4,1.2,0.112,0.013,55,80k-100k,Pet Care
+266,45-54,Female,Urban,English,PhD,9973,188,Desktop Only,3.7,7.4,0.047,0.075,116,0-20k,Pet Care
+267,45-54,Female,Rural,Mandarin,Bachelor,722,414,Mobile + Desktop,3.7,6.4,0.067,0.01,19,60k-80k,"Pet Care, Gaming"
+268,45-54,Male,Suburban,Mandarin,Bachelor,3941,401,Desktop Only,1.6,4.2,0.134,0.084,69,60k-80k,"Fashion Modelling, DIY Crafts, Digital Marketing"
+269,25-34,Female,Urban,English,Master,3776,202,Tablet,3.5,6.3,0.208,0.093,92,60k-80k,"Fashion Modelling, Investing and Finance, Eco-Friendly Living"
+270,25-34,Male,Urban,Hindi,Master,2672,101,Mobile Only,1.4,7.7,0.1,0.032,80,100k+,"Fitness and Wellness, Data Science"
+271,55-64,Female,Rural,Hindi,Technical,7015,378,Mobile + Desktop,1.1,6.4,0.179,0.093,14,40k-60k,"Eco-Friendly Living, Fashion Modelling"
+272,55-64,Male,Suburban,Mandarin,PhD,5133,240,Mobile Only,5.0,6.9,0.219,0.079,46,40k-60k,"Investing and Finance, Digital Marketing"
+273,55-64,Female,Suburban,Hindi,Master,7888,87,Mobile + Desktop,3.3,6.3,0.054,0.092,99,0-20k,"Travel and Adventure, Data Science"
+274,55-64,Female,Rural,English,High School,5314,94,Tablet,2.4,2.2,0.202,0.067,15,20k-40k,"Gardening, Travel and Adventure, Gaming, Investing and Finance"
+275,35-44,Male,Rural,Spanish,PhD,4812,39,Mobile + Desktop,1.8,6.8,0.189,0.024,122,60k-80k,"DIY Crafts, Music Production, Travel and Adventure"
+276,35-44,Male,Urban,Spanish,PhD,166,222,Mobile + Desktop,3.2,2.4,0.089,0.089,148,60k-80k,Investing and Finance
+277,45-54,Male,Urban,Hindi,Master,7633,58,Mobile + Desktop,0.7,7.2,0.247,0.018,129,20k-40k,"Eco-Friendly Living, Fitness and Wellness, Investing and Finance"
+278,45-54,Female,Rural,Mandarin,PhD,4716,274,Mobile Only,0.9,4.2,0.066,0.021,82,80k-100k,"Data Science, Digital Marketing, Photography"
+279,45-54,Female,Suburban,Mandarin,Master,1240,154,Desktop Only,0.6,5.7,0.064,0.027,151,100k+,"Gourmet Cooking, Investing and Finance, Photography"
+280,45-54,Male,Urban,Mandarin,Bachelor,5830,78,Mobile Only,2.7,4.5,0.193,0.03,163,100k+,"Data Science, Digital Marketing, Gardening"
+281,55-64,Male,Urban,Mandarin,Technical,7565,67,Desktop Only,3.2,1.7,0.109,0.051,94,80k-100k,"Music Production, Investing and Finance"
+282,25-34,Female,Suburban,Mandarin,Bachelor,9479,194,Mobile Only,0.8,3.0,0.083,0.071,12,80k-100k,Software Engineering
+283,25-34,Female,Urban,Hindi,Master,4571,71,Tablet,3.7,7.9,0.045,0.093,156,100k+,"Fashion Modelling, DIY Crafts, Travel and Adventure, Gourmet Cooking"
+284,18-24,Female,Suburban,Spanish,Master,3439,488,Tablet,1.5,7.7,0.191,0.009,140,80k-100k,"Fashion Modelling, Photography, Digital Marketing, Eco-Friendly Living"
+285,35-44,Female,Suburban,Spanish,Bachelor,648,317,Mobile + Desktop,3.6,3.2,0.197,0.095,115,80k-100k,"Fitness and Wellness, Data Science, DIY Crafts"
+286,18-24,Female,Suburban,Hindi,High School,7775,454,Tablet,4.9,8.0,0.142,0.092,162,20k-40k,"Fitness and Wellness, Investing and Finance, Reading and Literature, Gardening"
+287,35-44,Male,Rural,Mandarin,High School,8364,305,Mobile + Desktop,3.6,6.9,0.239,0.005,62,80k-100k,"Fashion Modelling, Gourmet Cooking, Investing and Finance, Reading and Literature"
+288,35-44,Male,Rural,Hindi,High School,298,175,Desktop Only,4.5,5.3,0.08,0.036,90,100k+,"Travel and Adventure, Software Engineering"
+289,25-34,Female,Rural,Spanish,Master,671,180,Tablet,4.8,1.3,0.055,0.081,59,80k-100k,"Music Production, Gardening"
+290,35-44,Female,Suburban,English,PhD,890,72,Desktop Only,2.7,7.3,0.169,0.061,126,60k-80k,"Gourmet Cooking, Photography, Music Production"
+291,18-24,Male,Suburban,Hindi,Master,9930,156,Mobile Only,3.7,4.9,0.19,0.078,112,20k-40k,"Gardening, Digital Marketing, Travel and Adventure"
+292,18-24,Female,Rural,Mandarin,PhD,1274,493,Desktop Only,4.3,7.1,0.056,0.072,52,0-20k,"Investing and Finance, Gaming, Digital Marketing"
+293,55-64,Male,Urban,Spanish,Bachelor,278,315,Mobile Only,2.1,6.8,0.019,0.05,136,20k-40k,"DIY Crafts, Pet Care, Eco-Friendly Living, Gourmet Cooking"
+294,25-34,Female,Suburban,Spanish,Technical,2344,170,Desktop Only,1.7,6.8,0.203,0.004,169,80k-100k,"DIY Crafts, Gourmet Cooking"
+295,18-24,Female,Urban,Spanish,PhD,4186,150,Desktop Only,4.8,5.9,0.244,0.058,140,80k-100k,"Gaming, Pet Care"
+296,35-44,Male,Urban,Spanish,High School,834,343,Tablet,3.8,3.0,0.161,0.005,133,40k-60k,"Digital Marketing, Pet Care, Travel and Adventure, Gaming"
+297,45-54,Male,Suburban,Mandarin,Master,6332,106,Desktop Only,1.5,3.4,0.069,0.06,51,20k-40k,Investing and Finance
+298,25-34,Male,Suburban,English,Bachelor,898,455,Tablet,2.5,3.2,0.249,0.08,9,100k+,"Data Science, Fitness and Wellness, Pet Care, Gaming"
+299,45-54,Male,Urban,Spanish,High School,7701,230,Tablet,4.1,1.1,0.223,0.058,28,0-20k,Reading and Literature
+300,18-24,Female,Urban,Hindi,Bachelor,9079,52,Mobile + Desktop,3.0,5.1,0.128,0.1,179,40k-60k,Photography
+301,18-24,Male,Rural,English,Technical,2895,442,Mobile + Desktop,3.4,5.9,0.206,0.046,22,40k-60k,Pet Care
+302,35-44,Male,Rural,Spanish,Master,4688,301,Mobile Only,3.9,7.0,0.204,0.075,88,40k-60k,Investing and Finance
+303,35-44,Male,Suburban,English,Master,7397,387,Desktop Only,3.3,2.0,0.234,0.067,160,20k-40k,"Fashion Modelling, Pet Care"
+304,45-54,Female,Rural,Hindi,Technical,3184,117,Mobile Only,2.9,4.8,0.21,0.099,9,80k-100k,"Reading and Literature, Gaming, Photography, Travel and Adventure"
+305,45-54,Female,Rural,Spanish,Master,831,275,Desktop Only,3.9,1.1,0.161,0.071,34,100k+,"Music Production, Fashion Modelling, Pet Care, Gaming"
+306,65+,Female,Rural,Hindi,PhD,1229,104,Mobile + Desktop,3.8,1.7,0.152,0.016,5,40k-60k,"Gourmet Cooking, Fitness and Wellness, Software Engineering, Data Science"
+307,35-44,Female,Rural,Mandarin,Bachelor,1705,271,Mobile + Desktop,3.3,1.4,0.117,0.096,90,80k-100k,"Fitness and Wellness, Music Production"
+308,25-34,Male,Urban,Spanish,High School,3033,322,Desktop Only,2.1,6.1,0.157,0.067,86,40k-60k,"Digital Marketing, Travel and Adventure, DIY Crafts, Eco-Friendly Living"
+309,45-54,Female,Suburban,Spanish,Technical,9507,394,Desktop Only,2.3,1.6,0.199,0.006,178,20k-40k,"Software Engineering, Gaming, Music Production, DIY Crafts"
+310,25-34,Male,Rural,Spanish,PhD,8616,80,Mobile + Desktop,4.9,6.0,0.242,0.066,73,40k-60k,Photography
+311,35-44,Male,Urban,Spanish,High School,5174,451,Mobile + Desktop,1.0,2.7,0.117,0.088,35,0-20k,Gaming
+312,18-24,Female,Urban,Mandarin,High School,7199,228,Mobile Only,1.7,7.1,0.143,0.058,95,60k-80k,Software Engineering
+313,18-24,Female,Urban,Spanish,Technical,1590,30,Mobile + Desktop,2.7,6.7,0.111,0.035,97,100k+,Gaming
+314,65+,Male,Rural,English,PhD,993,101,Desktop Only,4.3,7.7,0.167,0.082,131,100k+,"Reading and Literature, Fitness and Wellness, Music Production"
+315,55-64,Female,Rural,Spanish,High School,1490,136,Mobile Only,1.2,7.2,0.157,0.078,160,40k-60k,"Fashion Modelling, Digital Marketing"
+316,45-54,Male,Suburban,Mandarin,High School,3489,89,Desktop Only,1.7,7.5,0.004,0.054,20,100k+,Travel and Adventure
+317,35-44,Male,Rural,Spanish,PhD,4339,321,Tablet,0.8,7.0,0.135,0.015,58,80k-100k,"Investing and Finance, Fashion Modelling"
+318,25-34,Female,Rural,English,Master,4579,247,Mobile Only,3.7,5.9,0.022,0.025,144,80k-100k,"Investing and Finance, Photography"
+319,25-34,Female,Urban,Mandarin,High School,2363,480,Desktop Only,1.6,2.2,0.007,0.074,24,0-20k,"Fashion Modelling, Pet Care"
+320,25-34,Male,Suburban,Mandarin,Bachelor,3532,381,Mobile + Desktop,2.2,2.9,0.198,0.081,86,80k-100k,"Music Production, DIY Crafts, Gaming"
+321,35-44,Female,Rural,English,PhD,2471,413,Tablet,2.5,2.5,0.065,0.028,166,0-20k,"Reading and Literature, Investing and Finance"
+322,45-54,Male,Rural,English,High School,4412,495,Desktop Only,4.5,5.2,0.085,0.037,155,40k-60k,"Software Engineering, Data Science, Eco-Friendly Living, Investing and Finance"
+323,45-54,Male,Urban,English,Technical,1615,191,Mobile Only,2.4,4.5,0.016,0.008,113,100k+,"Fitness and Wellness, Digital Marketing"
+324,25-34,Female,Urban,English,Bachelor,6426,34,Desktop Only,1.2,7.1,0.045,0.071,159,80k-100k,"Data Science, Gardening, Pet Care"
+325,65+,Male,Rural,English,High School,7188,165,Tablet,2.9,7.7,0.191,0.0,117,80k-100k,"Gourmet Cooking, Travel and Adventure, Fitness and Wellness"
+326,45-54,Female,Suburban,Mandarin,Bachelor,5686,14,Mobile Only,4.8,3.8,0.123,0.005,21,40k-60k,"Digital Marketing, Photography, Fitness and Wellness"
+327,35-44,Male,Suburban,Mandarin,Bachelor,3017,129,Tablet,3.2,4.5,0.22,0.0,153,0-20k,"Gardening, Photography, Fitness and Wellness, Digital Marketing"
+328,45-54,Male,Urban,Spanish,Master,5831,286,Desktop Only,4.9,7.8,0.099,0.065,172,20k-40k,"Photography, Fashion Modelling, Digital Marketing, Eco-Friendly Living"
+329,35-44,Female,Urban,Spanish,Bachelor,7786,27,Mobile + Desktop,4.3,2.9,0.067,0.042,130,100k+,"Data Science, Gaming"
+330,25-34,Female,Rural,Hindi,Master,1267,440,Mobile + Desktop,0.7,6.5,0.087,0.03,7,40k-60k,Fashion Modelling
+331,25-34,Female,Urban,Spanish,PhD,8402,207,Desktop Only,3.5,2.6,0.178,0.091,21,40k-60k,"Data Science, Eco-Friendly Living"
+332,45-54,Male,Rural,Spanish,Master,5209,66,Desktop Only,1.8,5.8,0.139,0.019,54,60k-80k,"Investing and Finance, Pet Care, Eco-Friendly Living, Fitness and Wellness"
+333,18-24,Male,Suburban,English,Technical,4427,102,Desktop Only,3.0,2.8,0.226,0.039,126,60k-80k,Reading and Literature
+334,18-24,Male,Suburban,English,High School,5910,28,Mobile Only,1.8,7.2,0.151,0.094,94,40k-60k,"Music Production, Fashion Modelling, Data Science, Pet Care"
+335,18-24,Male,Rural,Spanish,PhD,3755,393,Tablet,2.1,4.9,0.123,0.043,91,20k-40k,DIY Crafts
+336,18-24,Female,Urban,Hindi,PhD,3893,362,Tablet,4.7,2.3,0.196,0.055,10,20k-40k,"Music Production, Reading and Literature"
+337,55-64,Male,Suburban,English,Technical,6838,202,Tablet,1.4,2.6,0.237,0.008,160,0-20k,Investing and Finance
+338,45-54,Female,Urban,Spanish,Master,1677,246,Desktop Only,4.4,4.5,0.089,0.079,59,100k+,Music Production
+339,35-44,Female,Suburban,Spanish,High School,9588,396,Tablet,0.6,7.7,0.062,0.042,177,60k-80k,"Fitness and Wellness, Gourmet Cooking"
+340,18-24,Female,Rural,Mandarin,Master,2320,435,Desktop Only,0.9,6.4,0.154,0.08,151,100k+,Travel and Adventure
+341,35-44,Male,Rural,Hindi,Bachelor,9264,286,Mobile Only,4.3,4.4,0.125,0.025,106,60k-80k,"Eco-Friendly Living, Reading and Literature, Travel and Adventure, Photography"
+342,35-44,Female,Rural,Mandarin,Master,1130,236,Mobile + Desktop,3.3,3.4,0.247,0.042,33,20k-40k,"Photography, Reading and Literature, Gourmet Cooking, DIY Crafts"
+343,25-34,Female,Suburban,Hindi,PhD,6791,242,Desktop Only,3.9,4.8,0.116,0.079,155,80k-100k,"Digital Marketing, Fashion Modelling, DIY Crafts, Gourmet Cooking"
+344,35-44,Male,Urban,English,High School,4092,49,Desktop Only,1.4,6.2,0.019,0.097,115,0-20k,"Digital Marketing, Gaming, Fitness and Wellness, Investing and Finance"
+345,25-34,Male,Urban,Hindi,Master,1013,332,Mobile + Desktop,2.9,6.5,0.244,0.006,164,60k-80k,"Eco-Friendly Living, Photography, Travel and Adventure"
+346,45-54,Male,Urban,Spanish,High School,6458,162,Mobile + Desktop,3.8,3.3,0.211,0.081,14,60k-80k,"Reading and Literature, Digital Marketing, Photography, Data Science"
+347,45-54,Female,Suburban,Spanish,High School,2281,136,Mobile Only,3.3,6.0,0.045,0.03,95,40k-60k,"Reading and Literature, Gaming, Fitness and Wellness"
+348,18-24,Male,Suburban,Hindi,Bachelor,3297,246,Tablet,2.6,5.6,0.226,0.055,33,0-20k,"DIY Crafts, Photography, Gardening, Fitness and Wellness"
+349,25-34,Female,Suburban,Hindi,Bachelor,6140,495,Desktop Only,4.8,7.7,0.085,0.029,49,40k-60k,"Investing and Finance, DIY Crafts"
+350,45-54,Male,Suburban,Hindi,PhD,1562,64,Tablet,3.5,7.5,0.094,0.061,55,20k-40k,"Eco-Friendly Living, Gaming, Reading and Literature"
+351,35-44,Female,Suburban,Mandarin,Technical,7137,477,Desktop Only,4.6,6.5,0.227,0.035,105,100k+,"Gourmet Cooking, Data Science, Gaming, DIY Crafts"
+352,55-64,Male,Urban,Hindi,High School,9599,445,Mobile Only,3.8,6.1,0.133,0.033,132,60k-80k,"Reading and Literature, Photography, Fashion Modelling"
+353,45-54,Male,Suburban,English,Technical,5094,181,Mobile + Desktop,3.8,2.9,0.034,0.004,15,40k-60k,"Digital Marketing, Data Science, Investing and Finance"
+354,25-34,Male,Suburban,Mandarin,PhD,9481,118,Mobile Only,0.9,6.9,0.092,0.015,86,40k-60k,"Gardening, Pet Care, Eco-Friendly Living"
+355,18-24,Female,Urban,Mandarin,High School,5408,363,Mobile + Desktop,2.1,4.0,0.181,0.092,132,80k-100k,"Fashion Modelling, Software Engineering, Photography"
+356,45-54,Female,Suburban,Hindi,High School,6321,478,Tablet,4.4,2.9,0.044,0.1,10,60k-80k,"Travel and Adventure, Music Production"
+357,18-24,Male,Urban,English,Technical,7190,193,Tablet,1.5,3.7,0.148,0.078,71,20k-40k,"Pet Care, Investing and Finance, Data Science, Eco-Friendly Living"
+358,35-44,Female,Urban,Mandarin,Master,7869,448,Mobile Only,1.0,6.9,0.174,0.029,66,20k-40k,"Music Production, Fashion Modelling, Photography, Gourmet Cooking"
+359,55-64,Female,Rural,Spanish,Bachelor,787,377,Mobile + Desktop,2.0,2.0,0.086,0.04,137,40k-60k,"DIY Crafts, Gourmet Cooking, Reading and Literature"
+360,35-44,Male,Rural,Mandarin,Master,4761,480,Mobile Only,1.5,4.2,0.173,0.074,141,40k-60k,"Gourmet Cooking, Pet Care"
+361,25-34,Female,Rural,Hindi,Technical,9499,207,Mobile + Desktop,4.7,4.4,0.221,0.097,32,100k+,"Travel and Adventure, Music Production, Photography, DIY Crafts"
+362,45-54,Male,Rural,English,Bachelor,1994,380,Mobile + Desktop,4.4,1.3,0.118,0.046,42,100k+,"DIY Crafts, Eco-Friendly Living"
+363,35-44,Female,Suburban,Hindi,Master,7489,382,Tablet,2.7,2.4,0.096,0.083,47,80k-100k,Eco-Friendly Living
+364,35-44,Male,Rural,Spanish,Bachelor,5022,470,Tablet,0.8,6.8,0.063,0.098,121,60k-80k,"Digital Marketing, DIY Crafts"
+365,55-64,Male,Urban,Spanish,High School,6422,96,Mobile + Desktop,3.7,6.8,0.151,0.087,153,100k+,Gaming
+366,25-34,Female,Suburban,Spanish,Master,3283,210,Mobile + Desktop,3.3,3.0,0.22,0.023,50,100k+,"Investing and Finance, Software Engineering, Photography, Gourmet Cooking"
+367,65+,Male,Rural,Hindi,Bachelor,3897,346,Mobile + Desktop,4.9,7.1,0.081,0.001,170,20k-40k,"Travel and Adventure, Photography, Fashion Modelling"
+368,55-64,Female,Urban,Mandarin,Bachelor,5278,331,Tablet,3.0,6.4,0.099,0.049,53,100k+,Reading and Literature
+369,25-34,Female,Suburban,Hindi,Bachelor,9936,284,Tablet,2.0,3.9,0.102,0.053,43,20k-40k,"Pet Care, Travel and Adventure, Gaming, Data Science"
+370,18-24,Male,Suburban,English,Master,4068,220,Desktop Only,2.8,6.2,0.14,0.02,75,0-20k,"Fitness and Wellness, Gourmet Cooking"
+371,18-24,Male,Rural,Mandarin,PhD,2816,400,Mobile + Desktop,4.9,7.7,0.057,0.028,131,100k+,"Music Production, Eco-Friendly Living"
+372,18-24,Female,Suburban,Spanish,Master,290,127,Desktop Only,3.6,4.2,0.206,0.077,162,0-20k,"Reading and Literature, Gardening, Investing and Finance"
+373,18-24,Female,Urban,Hindi,Technical,1435,200,Mobile + Desktop,3.5,2.7,0.074,0.047,153,60k-80k,"Investing and Finance, Photography, Gourmet Cooking, Travel and Adventure"
+374,45-54,Male,Suburban,Spanish,Master,8281,51,Tablet,1.6,7.6,0.176,0.032,5,60k-80k,"Reading and Literature, Photography"
+375,18-24,Female,Urban,Spanish,Bachelor,478,51,Desktop Only,3.8,5.2,0.128,0.062,164,80k-100k,"Digital Marketing, Photography, Gourmet Cooking, Gaming"
+376,25-34,Female,Suburban,English,High School,3929,324,Desktop Only,3.9,1.7,0.146,0.065,140,60k-80k,"DIY Crafts, Gourmet Cooking, Photography"
+377,55-64,Male,Rural,Mandarin,Master,6480,285,Mobile Only,1.9,5.0,0.045,0.077,73,20k-40k,"Software Engineering, Fitness and Wellness"
+378,18-24,Female,Urban,English,Master,715,338,Mobile + Desktop,2.7,4.5,0.184,0.016,34,40k-60k,Gaming
+379,55-64,Male,Suburban,English,Bachelor,2430,26,Tablet,1.8,7.0,0.047,0.074,119,80k-100k,"Gaming, Data Science"
+380,25-34,Female,Suburban,English,High School,1854,292,Mobile Only,1.7,4.7,0.028,0.06,12,80k-100k,Pet Care
+381,18-24,Female,Suburban,Spanish,High School,563,440,Mobile Only,0.6,2.8,0.137,0.006,117,0-20k,"Investing and Finance, DIY Crafts, Fitness and Wellness, Gourmet Cooking"
+382,45-54,Female,Urban,English,Technical,9258,267,Mobile + Desktop,1.8,5.7,0.177,0.078,23,100k+,"Software Engineering, Investing and Finance"
+383,45-54,Female,Urban,English,Master,4367,72,Mobile Only,3.0,4.8,0.013,0.038,63,40k-60k,"Travel and Adventure, Reading and Literature, Eco-Friendly Living, DIY Crafts"
+384,55-64,Male,Urban,Mandarin,High School,3258,71,Mobile + Desktop,0.5,2.6,0.017,0.033,162,100k+,"Digital Marketing, Gaming, Travel and Adventure, Photography"
+385,45-54,Male,Rural,Mandarin,High School,3724,109,Mobile Only,1.8,5.0,0.201,0.045,83,0-20k,Gardening
+386,55-64,Male,Rural,English,PhD,5038,28,Mobile + Desktop,4.5,6.8,0.202,0.035,40,80k-100k,"Music Production, Investing and Finance, Gourmet Cooking"
+387,25-34,Male,Urban,Mandarin,PhD,5517,26,Tablet,3.2,1.2,0.061,0.034,59,40k-60k,"Fashion Modelling, Gardening, Digital Marketing"
+388,25-34,Male,Suburban,Mandarin,High School,6104,334,Mobile + Desktop,3.2,5.4,0.154,0.081,48,20k-40k,"Fashion Modelling, Software Engineering, Data Science, Pet Care"
+389,45-54,Female,Rural,English,Technical,8981,432,Mobile + Desktop,2.3,3.4,0.111,0.012,159,60k-80k,"Eco-Friendly Living, Travel and Adventure, Digital Marketing"
+390,55-64,Female,Urban,Spanish,High School,5703,475,Desktop Only,3.5,3.0,0.158,0.097,81,20k-40k,"DIY Crafts, Eco-Friendly Living, Fashion Modelling, Reading and Literature"
+391,65+,Male,Suburban,English,Bachelor,2312,382,Tablet,1.4,3.7,0.216,0.055,82,100k+,"DIY Crafts, Software Engineering, Digital Marketing, Fitness and Wellness"
+392,35-44,Female,Rural,Mandarin,Master,6220,255,Tablet,4.2,3.4,0.02,0.018,105,0-20k,"Gardening, Digital Marketing, Fashion Modelling, Software Engineering"
+393,25-34,Female,Suburban,Spanish,Technical,5918,260,Tablet,1.0,6.8,0.194,0.013,34,20k-40k,"Fitness and Wellness, Fashion Modelling"
+394,45-54,Female,Suburban,Hindi,Bachelor,482,464,Mobile Only,3.5,2.9,0.123,0.059,43,100k+,"Photography, Digital Marketing"
+395,25-34,Male,Suburban,Spanish,Technical,2356,90,Desktop Only,2.0,6.1,0.141,0.063,17,60k-80k,"Pet Care, Gourmet Cooking, Eco-Friendly Living, Investing and Finance"
+396,55-64,Male,Suburban,Mandarin,Bachelor,1512,48,Tablet,3.9,1.7,0.163,0.005,126,80k-100k,"Fashion Modelling, Photography, Pet Care"
+397,55-64,Female,Rural,Spanish,Master,9875,45,Mobile Only,3.0,7.7,0.231,0.024,148,0-20k,"Gardening, Software Engineering, Fitness and Wellness"
+398,35-44,Female,Rural,English,Master,6246,433,Mobile Only,2.5,5.4,0.014,0.08,176,100k+,Digital Marketing
+399,45-54,Male,Rural,Hindi,PhD,471,438,Mobile Only,1.3,5.9,0.007,0.005,116,0-20k,"Pet Care, Gardening, Data Science"
+400,45-54,Male,Urban,Hindi,Bachelor,5906,397,Desktop Only,3.4,3.1,0.045,0.086,159,100k+,Eco-Friendly Living
+401,18-24,Male,Rural,Hindi,PhD,5665,495,Mobile Only,4.9,3.9,0.247,0.066,49,100k+,"Fitness and Wellness, Investing and Finance, Eco-Friendly Living, Gaming"
+402,55-64,Male,Suburban,Mandarin,Bachelor,8902,418,Desktop Only,4.2,2.6,0.179,0.043,123,40k-60k,"Fashion Modelling, Pet Care, Digital Marketing"
+403,35-44,Female,Rural,Mandarin,PhD,8407,206,Mobile + Desktop,0.8,7.5,0.154,0.035,39,20k-40k,"Gourmet Cooking, Eco-Friendly Living, Fashion Modelling"
+404,55-64,Female,Suburban,Hindi,Master,7537,167,Mobile Only,2.2,4.4,0.012,0.002,160,40k-60k,"Travel and Adventure, Investing and Finance, Fitness and Wellness"
+405,25-34,Female,Urban,Spanish,Technical,546,213,Tablet,4.7,5.4,0.22,0.083,11,20k-40k,"Pet Care, Gardening, Photography"
+406,55-64,Female,Suburban,Hindi,PhD,1491,205,Mobile Only,2.8,6.1,0.203,0.014,114,100k+,"Investing and Finance, Pet Care"
+407,25-34,Female,Suburban,Spanish,Bachelor,1440,225,Mobile + Desktop,3.5,3.6,0.166,0.031,118,20k-40k,"Music Production, Pet Care"
+408,18-24,Male,Suburban,Spanish,Bachelor,3039,294,Mobile + Desktop,4.6,6.0,0.085,0.057,55,60k-80k,"Pet Care, DIY Crafts, Gourmet Cooking"
+409,55-64,Male,Urban,Mandarin,Master,6069,466,Mobile Only,4.4,5.7,0.018,0.025,50,60k-80k,"Gourmet Cooking, Data Science, Travel and Adventure, Fashion Modelling"
+410,18-24,Male,Rural,Spanish,Bachelor,9365,205,Mobile + Desktop,2.8,5.9,0.145,0.05,24,40k-60k,"Pet Care, Music Production"
+411,25-34,Female,Rural,Hindi,High School,4913,316,Desktop Only,2.5,4.4,0.18,0.081,100,20k-40k,"Gaming, Reading and Literature, DIY Crafts"
+412,65+,Male,Urban,Mandarin,Technical,3669,161,Desktop Only,2.0,3.7,0.024,0.047,42,40k-60k,"Gaming, DIY Crafts"
+413,65+,Female,Suburban,English,PhD,5554,23,Mobile Only,3.7,2.6,0.158,0.095,108,60k-80k,Eco-Friendly Living
+414,35-44,Male,Rural,English,Technical,3250,334,Desktop Only,1.8,6.8,0.072,0.085,36,60k-80k,Gourmet Cooking
+415,45-54,Male,Urban,Mandarin,Master,9897,155,Desktop Only,1.6,5.3,0.191,0.033,158,100k+,"Fitness and Wellness, Gourmet Cooking"
+416,35-44,Male,Rural,Hindi,PhD,6514,435,Tablet,2.1,4.1,0.135,0.04,62,80k-100k,"Software Engineering, Fitness and Wellness"
+417,25-34,Female,Urban,English,PhD,4757,66,Mobile Only,1.3,7.6,0.032,0.042,171,0-20k,"Eco-Friendly Living, Pet Care, Digital Marketing"
+418,25-34,Female,Suburban,English,High School,7047,220,Mobile + Desktop,3.6,1.3,0.132,0.063,152,0-20k,"Fitness and Wellness, Fashion Modelling"
+419,45-54,Male,Rural,Spanish,Master,8043,277,Mobile Only,3.3,7.0,0.099,0.029,86,40k-60k,Gaming
+420,45-54,Male,Urban,Spanish,Bachelor,3762,219,Desktop Only,2.7,8.0,0.045,0.097,54,80k-100k,"Gourmet Cooking, Fitness and Wellness, Gardening, Digital Marketing"
+421,45-54,Female,Rural,Hindi,High School,4582,26,Tablet,2.3,7.2,0.21,0.061,56,40k-60k,"Gaming, Reading and Literature"
+422,45-54,Female,Rural,Mandarin,High School,4897,295,Mobile Only,4.6,6.7,0.003,0.04,90,60k-80k,"Reading and Literature, Eco-Friendly Living, Fitness and Wellness"
+423,18-24,Female,Rural,Hindi,Technical,5168,353,Mobile Only,0.6,3.6,0.078,0.065,119,80k-100k,"Pet Care, Investing and Finance, Eco-Friendly Living, Reading and Literature"
+424,35-44,Male,Rural,Mandarin,Technical,5580,212,Desktop Only,4.0,2.6,0.003,0.04,154,100k+,"Gaming, Gourmet Cooking"
+425,18-24,Female,Urban,English,Technical,8133,108,Desktop Only,4.6,6.1,0.024,0.082,57,80k-100k,"Software Engineering, Eco-Friendly Living"
+426,35-44,Female,Suburban,Spanish,High School,1083,288,Mobile Only,2.5,3.1,0.074,0.057,70,0-20k,"Fashion Modelling, Travel and Adventure"
+427,35-44,Female,Urban,Hindi,Bachelor,5707,218,Desktop Only,3.0,2.2,0.014,0.004,121,20k-40k,"Digital Marketing, Eco-Friendly Living, Gourmet Cooking, Travel and Adventure"
+428,55-64,Male,Urban,Hindi,PhD,8643,138,Desktop Only,4.8,6.5,0.149,0.018,47,40k-60k,"Gardening, Pet Care"
+429,25-34,Male,Urban,Mandarin,Technical,9571,344,Desktop Only,1.5,3.2,0.022,0.086,86,0-20k,"Fitness and Wellness, Eco-Friendly Living, Gourmet Cooking"
+430,18-24,Female,Suburban,Mandarin,Bachelor,2007,297,Desktop Only,2.8,7.4,0.175,0.056,155,100k+,Investing and Finance
+431,18-24,Male,Rural,Hindi,Master,7024,261,Desktop Only,2.6,6.9,0.013,0.095,68,80k-100k,"Software Engineering, Digital Marketing"
+432,45-54,Female,Rural,Mandarin,Technical,9316,274,Tablet,1.7,6.9,0.015,0.007,141,20k-40k,"Gourmet Cooking, Pet Care, Software Engineering"
+433,45-54,Female,Rural,Hindi,PhD,8837,280,Desktop Only,4.2,6.4,0.076,0.03,117,60k-80k,"Eco-Friendly Living, Music Production, Gaming, Investing and Finance"
+434,18-24,Female,Suburban,Hindi,Master,4274,421,Mobile + Desktop,4.5,7.2,0.224,0.019,139,40k-60k,"Travel and Adventure, Fashion Modelling, Reading and Literature"
+435,18-24,Male,Rural,Hindi,Master,9180,417,Mobile Only,4.0,6.6,0.16,0.055,173,0-20k,"Digital Marketing, Photography, Gaming, Gardening"
+436,45-54,Female,Suburban,English,PhD,7365,197,Tablet,1.4,5.2,0.193,0.038,58,40k-60k,"Gaming, Digital Marketing"
+437,18-24,Male,Rural,Mandarin,Technical,9397,428,Tablet,0.9,3.1,0.035,0.016,69,40k-60k,Eco-Friendly Living
+438,55-64,Male,Rural,Spanish,High School,2090,223,Desktop Only,3.2,7.2,0.209,0.064,6,60k-80k,"Music Production, Data Science, Software Engineering, Investing and Finance"
+439,45-54,Female,Urban,Spanish,PhD,5696,292,Mobile Only,0.8,6.9,0.002,0.054,136,100k+,"Investing and Finance, Fitness and Wellness, Fashion Modelling"
+440,18-24,Male,Suburban,Mandarin,PhD,4098,220,Mobile + Desktop,3.5,4.3,0.053,0.027,82,80k-100k,"Digital Marketing, Photography, Gardening"
+441,18-24,Female,Urban,Hindi,PhD,3875,374,Desktop Only,2.9,1.3,0.154,0.048,36,20k-40k,Photography
+442,65+,Female,Urban,Spanish,Master,9212,85,Mobile Only,3.5,5.5,0.094,0.075,104,100k+,Photography
+443,25-34,Male,Urban,Spanish,Bachelor,4745,157,Desktop Only,3.2,1.4,0.246,0.021,134,60k-80k,"Gourmet Cooking, Fashion Modelling, Photography"
+444,25-34,Male,Suburban,Mandarin,High School,2161,330,Desktop Only,2.4,7.5,0.008,0.029,108,80k-100k,"Software Engineering, Data Science, Gardening, Pet Care"
+445,55-64,Female,Suburban,Spanish,Technical,4587,222,Desktop Only,1.4,7.7,0.25,0.035,146,20k-40k,"Eco-Friendly Living, Data Science, Reading and Literature, Pet Care"
+446,55-64,Female,Rural,Hindi,Technical,4535,442,Desktop Only,1.9,2.3,0.156,0.075,152,80k-100k,"Software Engineering, Reading and Literature"
+447,65+,Male,Urban,Mandarin,Bachelor,2744,118,Desktop Only,2.9,5.7,0.14,0.085,93,60k-80k,Gardening
+448,45-54,Male,Rural,Hindi,PhD,1145,138,Desktop Only,3.4,1.6,0.015,0.038,53,40k-60k,"Gardening, Travel and Adventure, Eco-Friendly Living, Music Production"
+449,25-34,Male,Urban,Spanish,High School,8051,19,Desktop Only,4.0,6.1,0.068,0.03,140,20k-40k,Fitness and Wellness
+450,18-24,Male,Suburban,Spanish,Technical,6549,56,Mobile + Desktop,4.0,3.4,0.231,0.089,178,100k+,"Gardening, Pet Care"
+451,45-54,Male,Suburban,Hindi,Technical,2781,388,Tablet,4.9,5.8,0.089,0.1,153,80k-100k,"Data Science, Travel and Adventure, Gaming, Investing and Finance"
+452,35-44,Male,Suburban,English,PhD,3299,324,Mobile + Desktop,1.8,3.6,0.165,0.067,91,100k+,"Eco-Friendly Living, Gardening, Fitness and Wellness"
+453,35-44,Female,Urban,Spanish,Bachelor,6868,105,Desktop Only,0.8,2.0,0.25,0.099,164,40k-60k,Travel and Adventure
+454,55-64,Male,Suburban,English,High School,9230,455,Desktop Only,2.1,3.8,0.066,0.066,12,0-20k,Data Science
+455,18-24,Male,Urban,Spanish,Bachelor,7540,112,Mobile + Desktop,3.8,1.8,0.144,0.073,105,100k+,"DIY Crafts, Photography"
+456,35-44,Female,Rural,English,Bachelor,8733,389,Mobile + Desktop,2.5,5.0,0.174,0.039,20,60k-80k,"Photography, Gaming"
+457,18-24,Male,Urban,English,High School,2650,351,Tablet,4.2,1.3,0.041,0.043,44,60k-80k,Gaming
+458,35-44,Male,Rural,English,High School,4325,155,Mobile + Desktop,3.0,4.7,0.037,0.014,110,60k-80k,"Gaming, Reading and Literature, Investing and Finance"
+459,18-24,Male,Urban,Hindi,Technical,696,377,Tablet,4.7,7.2,0.114,0.082,31,100k+,"Data Science, Software Engineering, Photography, Digital Marketing"
+460,18-24,Male,Rural,English,Technical,6154,439,Desktop Only,4.8,6.9,0.096,0.093,108,100k+,"Gaming, Data Science, Fitness and Wellness"
+461,18-24,Female,Suburban,English,High School,1605,425,Mobile Only,0.8,7.2,0.179,0.062,109,100k+,Reading and Literature
+462,45-54,Female,Rural,English,Master,9153,36,Mobile Only,2.6,7.5,0.017,0.034,150,80k-100k,"Eco-Friendly Living, Music Production, Gardening, Gourmet Cooking"
+463,45-54,Female,Suburban,Spanish,Technical,6568,229,Mobile Only,3.2,1.7,0.243,0.015,39,100k+,"Gaming, DIY Crafts, Photography"
+464,35-44,Female,Suburban,English,Master,7336,27,Mobile Only,1.7,1.9,0.004,0.027,117,100k+,"Investing and Finance, Travel and Adventure"
+465,65+,Male,Rural,Spanish,High School,1651,176,Desktop Only,2.3,4.9,0.15,0.026,56,80k-100k,"Investing and Finance, Gourmet Cooking, Software Engineering"
+466,25-34,Male,Urban,English,Technical,6952,442,Mobile Only,3.5,7.3,0.141,0.061,147,100k+,Fashion Modelling
+467,25-34,Female,Urban,English,Bachelor,1549,486,Mobile + Desktop,1.5,7.8,0.034,0.095,57,80k-100k,Gourmet Cooking
+468,55-64,Female,Urban,Hindi,High School,6053,91,Mobile + Desktop,3.2,1.3,0.038,0.005,95,40k-60k,"Travel and Adventure, Data Science, DIY Crafts"
+469,25-34,Male,Urban,Spanish,PhD,8556,437,Mobile Only,3.6,3.5,0.198,0.0,85,80k-100k,"Investing and Finance, Software Engineering, Pet Care"
+470,65+,Female,Urban,English,Master,8142,81,Mobile + Desktop,0.9,2.5,0.222,0.06,108,20k-40k,"Software Engineering, Gardening"
+471,18-24,Female,Suburban,Spanish,High School,2759,319,Tablet,2.7,6.3,0.071,0.028,70,60k-80k,"Digital Marketing, Data Science"
+472,65+,Female,Urban,Spanish,High School,7609,488,Desktop Only,1.7,5.5,0.109,0.088,117,100k+,"Fashion Modelling, Reading and Literature, Digital Marketing"
+473,18-24,Female,Suburban,Mandarin,Technical,7993,263,Mobile Only,3.8,1.8,0.089,0.033,35,0-20k,"Fitness and Wellness, Reading and Literature"
+474,55-64,Male,Suburban,Hindi,Technical,7545,171,Mobile Only,1.4,4.4,0.018,0.029,65,100k+,"Travel and Adventure, Eco-Friendly Living"
+475,35-44,Male,Suburban,Hindi,Technical,2821,336,Desktop Only,4.5,5.8,0.168,0.027,105,20k-40k,Reading and Literature
+476,65+,Male,Rural,Hindi,PhD,9754,429,Mobile + Desktop,2.4,6.5,0.206,0.014,109,20k-40k,"Gourmet Cooking, Reading and Literature, Fashion Modelling, Fitness and Wellness"
+477,18-24,Male,Rural,Mandarin,Technical,9737,411,Desktop Only,1.4,1.1,0.076,0.058,102,20k-40k,Digital Marketing
+478,35-44,Male,Suburban,Mandarin,High School,3025,47,Desktop Only,2.5,7.2,0.248,0.017,38,20k-40k,"Gardening, Fashion Modelling, Software Engineering"
+479,65+,Female,Rural,Hindi,Technical,9924,452,Mobile + Desktop,2.3,5.0,0.019,0.042,63,60k-80k,"DIY Crafts, Music Production, Fashion Modelling, Travel and Adventure"
+480,35-44,Female,Urban,Mandarin,Bachelor,7204,402,Desktop Only,2.4,6.7,0.165,0.046,7,60k-80k,"Digital Marketing, Fitness and Wellness, Photography"
+481,45-54,Male,Urban,Mandarin,Technical,6340,210,Mobile + Desktop,3.1,6.7,0.112,0.002,21,0-20k,"DIY Crafts, Music Production, Investing and Finance"
+482,45-54,Male,Suburban,Mandarin,PhD,612,209,Mobile + Desktop,2.8,2.3,0.112,0.002,82,80k-100k,Photography
+483,35-44,Female,Urban,Hindi,Bachelor,315,264,Desktop Only,1.2,1.8,0.114,0.052,50,0-20k,"Pet Care, Eco-Friendly Living, Travel and Adventure, Investing and Finance"
+484,45-54,Male,Suburban,Hindi,High School,7399,188,Tablet,0.8,6.0,0.065,0.07,170,40k-60k,"Photography, Investing and Finance"
+485,35-44,Male,Suburban,Hindi,High School,3253,44,Mobile + Desktop,3.8,2.1,0.179,0.094,39,80k-100k,"Investing and Finance, Digital Marketing, Gaming"
+486,55-64,Male,Urban,Mandarin,Master,7550,91,Desktop Only,3.0,6.9,0.18,0.018,133,40k-60k,"Travel and Adventure, Gardening, Pet Care"
+487,18-24,Female,Rural,Hindi,Bachelor,1806,398,Mobile + Desktop,2.1,6.1,0.071,0.01,116,40k-60k,"Eco-Friendly Living, Pet Care"
+488,25-34,Male,Urban,Mandarin,Master,1667,407,Tablet,4.1,6.9,0.209,0.005,161,100k+,"Fitness and Wellness, Music Production"
+489,65+,Male,Urban,English,Bachelor,1228,229,Tablet,2.2,3.1,0.079,0.044,136,0-20k,"Digital Marketing, Travel and Adventure"
+490,55-64,Female,Suburban,Mandarin,Bachelor,3610,167,Mobile Only,4.1,3.2,0.181,0.062,65,20k-40k,"Pet Care, Gourmet Cooking"
+491,35-44,Female,Suburban,Spanish,PhD,7967,13,Mobile + Desktop,1.9,5.7,0.03,0.084,101,0-20k,"Music Production, Data Science, Fashion Modelling, Photography"
+492,45-54,Male,Suburban,Hindi,Master,2465,176,Mobile + Desktop,0.8,1.2,0.042,0.068,149,0-20k,Software Engineering
+493,25-34,Female,Suburban,Hindi,PhD,5683,477,Desktop Only,4.7,6.1,0.079,0.021,160,100k+,"Photography, Eco-Friendly Living"
+494,25-34,Male,Rural,Spanish,Bachelor,4997,457,Mobile + Desktop,2.3,6.9,0.148,0.046,94,80k-100k,"Investing and Finance, Photography, Gourmet Cooking"
+495,35-44,Male,Rural,Mandarin,High School,5818,418,Mobile Only,4.1,3.9,0.161,0.091,140,100k+,"Music Production, Investing and Finance"
+496,25-34,Male,Rural,English,Bachelor,6101,421,Tablet,1.8,6.4,0.099,0.033,166,40k-60k,Digital Marketing
+497,35-44,Female,Suburban,Spanish,PhD,4667,213,Tablet,3.4,2.2,0.019,0.05,63,100k+,"Reading and Literature, Software Engineering, DIY Crafts"
+498,18-24,Female,Suburban,Spanish,Master,9371,203,Mobile Only,4.4,3.3,0.093,0.096,22,0-20k,"Travel and Adventure, Photography"
+499,65+,Male,Suburban,Mandarin,Master,2841,244,Mobile + Desktop,0.7,7.8,0.172,0.073,99,60k-80k,"Digital Marketing, Gardening"
+500,65+,Male,Rural,Hindi,PhD,3120,215,Mobile + Desktop,4.2,7.9,0.168,0.075,159,20k-40k,"Gourmet Cooking, Travel and Adventure"
+501,45-54,Female,Suburban,Mandarin,Master,6356,159,Mobile Only,3.1,4.6,0.04,0.025,20,20k-40k,"DIY Crafts, Music Production"
+502,35-44,Female,Urban,Spanish,Technical,328,168,Desktop Only,3.2,7.5,0.002,0.041,14,80k-100k,Music Production
+503,25-34,Female,Urban,Spanish,High School,8462,288,Tablet,2.9,4.7,0.188,0.008,108,80k-100k,"Pet Care, Digital Marketing"
+504,55-64,Female,Suburban,Hindi,High School,394,313,Mobile Only,4.4,3.0,0.027,0.061,80,0-20k,"Gaming, Investing and Finance, Fashion Modelling"
+505,45-54,Male,Urban,Hindi,High School,4384,413,Mobile Only,0.7,2.9,0.021,0.01,154,0-20k,"Investing and Finance, Gaming, Data Science, Gourmet Cooking"
+506,25-34,Female,Urban,Hindi,Master,8717,390,Mobile + Desktop,1.7,7.5,0.001,0.084,20,40k-60k,"Eco-Friendly Living, Photography, DIY Crafts, Gaming"
+507,55-64,Male,Rural,Mandarin,Master,6901,175,Tablet,4.4,2.2,0.108,0.081,16,80k-100k,"Photography, Eco-Friendly Living, Reading and Literature"
+508,55-64,Female,Suburban,Hindi,Bachelor,1018,320,Mobile + Desktop,3.9,5.1,0.126,0.053,79,60k-80k,"Investing and Finance, Gardening"
+509,55-64,Male,Suburban,Spanish,Bachelor,598,77,Mobile Only,0.6,4.9,0.159,0.014,133,40k-60k,"Pet Care, Fashion Modelling, Digital Marketing, Eco-Friendly Living"
+510,45-54,Female,Rural,Spanish,High School,2909,472,Desktop Only,2.8,6.2,0.074,0.003,31,40k-60k,"DIY Crafts, Fashion Modelling, Gaming"
+511,45-54,Female,Urban,English,Technical,5061,97,Tablet,2.9,4.5,0.178,0.08,16,20k-40k,"Fitness and Wellness, Reading and Literature, Data Science"
+512,35-44,Male,Urban,Mandarin,Bachelor,9117,226,Mobile Only,2.3,2.9,0.042,0.06,34,60k-80k,Pet Care
+513,55-64,Male,Suburban,English,Bachelor,3879,10,Mobile Only,1.8,2.2,0.208,0.071,13,40k-60k,"DIY Crafts, Eco-Friendly Living"
+514,55-64,Female,Urban,Spanish,Master,2218,144,Desktop Only,3.6,5.3,0.143,0.03,57,0-20k,DIY Crafts
+515,18-24,Male,Rural,English,Technical,6491,194,Mobile Only,1.4,6.0,0.146,0.051,58,80k-100k,"DIY Crafts, Travel and Adventure, Gardening"
+516,18-24,Female,Rural,Spanish,High School,245,360,Mobile Only,4.1,5.0,0.052,0.075,169,80k-100k,"Reading and Literature, Gourmet Cooking, Digital Marketing, Data Science"
+517,25-34,Male,Suburban,English,Bachelor,8042,149,Tablet,4.1,6.2,0.019,0.046,174,40k-60k,Software Engineering
+518,55-64,Male,Rural,Hindi,Technical,4665,115,Tablet,2.4,2.0,0.116,0.06,53,20k-40k,"Music Production, Fashion Modelling"
+519,65+,Male,Rural,English,Technical,292,142,Tablet,1.8,7.2,0.154,0.079,8,80k-100k,Data Science
+520,25-34,Male,Suburban,Hindi,High School,5287,117,Mobile + Desktop,1.8,5.1,0.024,0.022,83,40k-60k,"Pet Care, Fitness and Wellness, Music Production"
+521,35-44,Male,Rural,Hindi,Technical,6737,187,Desktop Only,2.7,1.9,0.238,0.007,95,60k-80k,"Travel and Adventure, Digital Marketing, DIY Crafts"
+522,25-34,Female,Rural,Mandarin,Technical,8343,307,Tablet,3.7,4.2,0.245,0.053,83,0-20k,Pet Care
+523,65+,Male,Rural,Hindi,Technical,2510,367,Mobile + Desktop,2.1,6.9,0.136,0.006,163,60k-80k,"Fitness and Wellness, Digital Marketing, Gourmet Cooking"
+524,55-64,Male,Urban,Hindi,Bachelor,1920,389,Mobile + Desktop,3.2,7.3,0.238,0.077,107,100k+,"Gourmet Cooking, Gardening, Software Engineering, Gaming"
+525,55-64,Male,Suburban,English,High School,3064,405,Desktop Only,2.2,2.9,0.045,0.072,115,0-20k,"Pet Care, Reading and Literature"
+526,35-44,Female,Suburban,Spanish,Technical,2621,368,Desktop Only,1.9,6.0,0.006,0.088,62,100k+,Music Production
+527,35-44,Female,Suburban,Mandarin,Technical,2668,155,Mobile Only,0.6,1.7,0.01,0.064,86,100k+,"Digital Marketing, Fashion Modelling, Investing and Finance"
+528,25-34,Male,Urban,Hindi,Bachelor,5982,459,Mobile + Desktop,0.5,1.2,0.147,0.007,136,100k+,"Fashion Modelling, Photography"
+529,18-24,Male,Urban,Mandarin,High School,1967,83,Tablet,1.5,4.9,0.015,0.025,26,60k-80k,"Photography, Data Science, Pet Care"
+530,55-64,Female,Suburban,English,Master,7565,472,Desktop Only,2.3,5.9,0.24,0.081,135,60k-80k,"Software Engineering, Music Production, Reading and Literature"
+531,55-64,Female,Urban,Hindi,Bachelor,7702,487,Mobile + Desktop,4.3,6.6,0.035,0.017,83,100k+,"Music Production, Gardening"
+532,65+,Female,Suburban,English,High School,3299,117,Tablet,4.1,3.4,0.076,0.07,103,80k-100k,"Music Production, Investing and Finance, Data Science, Software Engineering"
+533,65+,Male,Urban,Mandarin,Technical,6203,131,Mobile + Desktop,1.7,1.0,0.206,0.078,179,20k-40k,"Eco-Friendly Living, Investing and Finance"
+534,35-44,Female,Rural,English,High School,340,26,Desktop Only,1.6,4.4,0.055,0.033,42,20k-40k,Software Engineering
+535,45-54,Male,Rural,Mandarin,High School,3540,205,Mobile Only,1.5,1.1,0.061,0.032,165,40k-60k,"Software Engineering, Eco-Friendly Living"
+536,55-64,Male,Suburban,English,High School,4731,336,Mobile + Desktop,2.0,1.6,0.161,0.056,121,60k-80k,Fashion Modelling
+537,55-64,Male,Urban,Mandarin,Master,9699,327,Tablet,2.7,3.3,0.069,0.086,30,0-20k,"Eco-Friendly Living, Photography"
+538,25-34,Male,Urban,Spanish,High School,8374,306,Desktop Only,2.5,4.1,0.054,0.022,140,80k-100k,"DIY Crafts, Gourmet Cooking, Fashion Modelling"
+539,35-44,Male,Rural,English,Master,5177,488,Mobile Only,1.5,3.0,0.064,0.094,54,40k-60k,"Photography, Reading and Literature"
+540,18-24,Female,Rural,English,Technical,3868,261,Tablet,1.1,5.1,0.123,0.06,42,80k-100k,"Digital Marketing, Pet Care"
+541,65+,Male,Urban,Spanish,Master,9242,496,Tablet,0.6,1.4,0.242,0.099,142,20k-40k,Photography
+542,45-54,Male,Urban,Spanish,Technical,8095,128,Tablet,1.2,2.0,0.208,0.009,46,40k-60k,"Reading and Literature, Music Production, Fitness and Wellness, Investing and Finance"
+543,25-34,Male,Urban,English,Technical,8902,171,Mobile + Desktop,3.7,5.9,0.071,0.013,41,60k-80k,Photography
+544,45-54,Female,Urban,Spanish,Master,6529,207,Desktop Only,1.6,2.0,0.091,0.083,158,0-20k,"Gardening, Eco-Friendly Living"
+545,45-54,Female,Urban,Hindi,Bachelor,3705,495,Tablet,2.6,5.5,0.116,0.086,144,40k-60k,Eco-Friendly Living
+546,25-34,Male,Urban,Mandarin,PhD,2273,54,Mobile + Desktop,3.2,1.4,0.245,0.045,53,0-20k,Fitness and Wellness
+547,18-24,Female,Suburban,Mandarin,High School,9814,323,Desktop Only,4.5,3.9,0.043,0.071,146,40k-60k,"Eco-Friendly Living, Travel and Adventure, Digital Marketing, DIY Crafts"
+548,45-54,Male,Urban,Mandarin,PhD,6668,188,Desktop Only,4.5,2.2,0.089,0.087,50,0-20k,"Gaming, Eco-Friendly Living"
+549,35-44,Male,Rural,Hindi,High School,2701,391,Mobile + Desktop,3.9,1.8,0.182,0.004,167,40k-60k,"Gourmet Cooking, Eco-Friendly Living"
+550,45-54,Female,Suburban,Spanish,High School,2757,427,Mobile + Desktop,0.7,5.0,0.241,0.057,33,80k-100k,"Reading and Literature, Digital Marketing, Gourmet Cooking"
+551,35-44,Male,Urban,Spanish,Technical,6180,53,Tablet,3.1,7.5,0.039,0.085,16,80k-100k,"Reading and Literature, Photography"
+552,55-64,Male,Rural,English,High School,7425,280,Desktop Only,4.0,1.4,0.057,0.04,120,100k+,Fitness and Wellness
+553,35-44,Male,Suburban,Spanish,High School,2259,87,Mobile Only,0.6,4.0,0.056,0.03,86,60k-80k,"Gourmet Cooking, Digital Marketing, Travel and Adventure, Software Engineering"
+554,35-44,Male,Rural,English,Master,3930,335,Mobile + Desktop,3.0,6.0,0.005,0.08,48,40k-60k,"Software Engineering, Photography, Digital Marketing, Gardening"
+555,55-64,Female,Urban,Hindi,PhD,8413,187,Desktop Only,4.4,4.2,0.151,0.034,6,100k+,Pet Care
+556,35-44,Male,Urban,Mandarin,Master,4468,366,Desktop Only,2.6,6.6,0.168,0.0,21,100k+,Gardening
+557,18-24,Male,Urban,Mandarin,High School,1417,425,Tablet,0.5,2.3,0.151,0.096,142,0-20k,"Music Production, Software Engineering, Travel and Adventure"
+558,18-24,Male,Urban,Mandarin,Technical,4593,460,Mobile Only,0.5,7.7,0.018,0.059,22,0-20k,"Gardening, Gaming, Fitness and Wellness, Software Engineering"
+559,45-54,Male,Suburban,Spanish,Master,1330,12,Tablet,2.4,3.7,0.017,0.082,26,0-20k,"Reading and Literature, Eco-Friendly Living, Fitness and Wellness, Digital Marketing"
+560,45-54,Female,Suburban,English,Master,1233,223,Mobile Only,1.2,3.4,0.053,0.083,87,100k+,"Music Production, Pet Care, Eco-Friendly Living, Travel and Adventure"
+561,45-54,Male,Rural,English,Bachelor,7707,351,Mobile Only,3.5,7.1,0.073,0.007,62,80k-100k,"DIY Crafts, Music Production"
+562,25-34,Female,Urban,Hindi,High School,1401,83,Mobile + Desktop,3.7,4.9,0.197,0.017,57,100k+,"Travel and Adventure, Reading and Literature"
+563,18-24,Female,Rural,Spanish,Technical,2010,60,Desktop Only,1.3,4.6,0.04,0.031,5,20k-40k,"Reading and Literature, Gaming"
+564,18-24,Male,Suburban,Hindi,Master,8182,76,Desktop Only,4.5,6.1,0.011,0.032,65,60k-80k,"Pet Care, Digital Marketing, Fashion Modelling, Gardening"
+565,25-34,Male,Urban,English,Master,8207,341,Desktop Only,2.5,5.1,0.098,0.066,163,80k-100k,"Fitness and Wellness, Investing and Finance, Data Science"
+566,35-44,Male,Urban,English,Technical,9797,102,Mobile Only,1.1,2.1,0.104,0.062,35,60k-80k,Digital Marketing
+567,25-34,Female,Suburban,Mandarin,High School,8070,185,Desktop Only,3.9,5.7,0.113,0.049,70,60k-80k,"Pet Care, Fitness and Wellness, Photography"
+568,35-44,Female,Suburban,Spanish,Bachelor,2016,154,Mobile + Desktop,4.1,1.9,0.207,0.021,151,60k-80k,"Fitness and Wellness, Eco-Friendly Living, Gaming"
+569,55-64,Female,Suburban,English,Master,7096,16,Mobile Only,3.4,6.6,0.025,0.038,57,0-20k,"Gourmet Cooking, Music Production, Gaming, Eco-Friendly Living"
+570,25-34,Female,Suburban,Mandarin,Bachelor,2857,278,Mobile Only,4.3,7.9,0.176,0.054,99,60k-80k,"Reading and Literature, Pet Care, Travel and Adventure"
+571,35-44,Male,Suburban,Spanish,PhD,6564,385,Mobile Only,3.8,3.6,0.084,0.047,154,80k-100k,"DIY Crafts, Data Science, Digital Marketing"
+572,45-54,Male,Urban,Hindi,High School,278,331,Mobile Only,4.5,4.1,0.077,0.013,27,20k-40k,"Data Science, Fitness and Wellness, Music Production"
+573,25-34,Female,Suburban,Spanish,PhD,9188,13,Mobile + Desktop,2.5,1.3,0.233,0.065,147,100k+,Photography
+574,45-54,Male,Urban,Spanish,PhD,6462,147,Desktop Only,3.9,1.1,0.062,0.007,158,80k-100k,"Music Production, Gaming"
+575,55-64,Female,Urban,English,PhD,9843,240,Mobile + Desktop,5.0,7.4,0.161,0.038,135,0-20k,Reading and Literature
+576,55-64,Male,Suburban,English,High School,8783,97,Desktop Only,3.8,1.9,0.069,0.071,91,100k+,"Reading and Literature, Fashion Modelling, Digital Marketing, Music Production"
+577,18-24,Male,Suburban,Spanish,High School,160,26,Mobile + Desktop,1.0,4.1,0.127,0.002,152,80k-100k,"Data Science, Photography, Music Production"
+578,55-64,Male,Urban,English,Technical,9369,61,Tablet,2.8,6.7,0.197,0.057,129,0-20k,"Music Production, Gardening"
+579,35-44,Male,Suburban,English,Bachelor,6781,143,Tablet,3.1,7.2,0.22,0.033,113,80k-100k,"Fashion Modelling, Digital Marketing, Gardening"
+580,25-34,Male,Suburban,English,Bachelor,2995,220,Tablet,1.3,4.6,0.21,0.001,44,40k-60k,"Software Engineering, Photography"
+581,35-44,Male,Suburban,Mandarin,Technical,685,334,Tablet,4.8,5.0,0.146,0.019,125,80k-100k,"Data Science, Fashion Modelling, DIY Crafts"
+582,65+,Female,Rural,Mandarin,Technical,5923,489,Mobile Only,1.3,5.7,0.062,0.094,43,40k-60k,Music Production
+583,35-44,Male,Urban,Spanish,PhD,634,467,Mobile Only,1.3,7.7,0.165,0.052,124,80k-100k,"Gaming, Eco-Friendly Living"
+584,25-34,Male,Rural,English,Technical,3562,402,Mobile + Desktop,4.6,5.2,0.177,0.1,22,20k-40k,"Data Science, Gaming, Music Production"
+585,45-54,Male,Suburban,Mandarin,Master,4111,228,Mobile + Desktop,2.6,4.9,0.003,0.052,173,20k-40k,"Photography, Gaming, DIY Crafts"
+586,25-34,Male,Rural,Spanish,Bachelor,3498,214,Tablet,0.8,1.1,0.11,0.054,159,80k-100k,"Software Engineering, Fashion Modelling"
+587,18-24,Female,Suburban,English,Technical,2255,220,Desktop Only,3.2,1.6,0.211,0.039,147,0-20k,"Photography, Pet Care"
+588,18-24,Female,Rural,Hindi,Master,6066,286,Tablet,3.2,5.0,0.122,0.031,41,80k-100k,"Data Science, Software Engineering, Eco-Friendly Living"
+589,18-24,Female,Suburban,English,Master,7429,33,Mobile + Desktop,0.8,7.6,0.078,0.025,9,20k-40k,Fashion Modelling
+590,25-34,Male,Rural,English,Master,7057,495,Tablet,4.9,7.1,0.218,0.034,77,40k-60k,"Gaming, DIY Crafts, Reading and Literature, Fashion Modelling"
+591,18-24,Male,Rural,Mandarin,Master,9296,13,Mobile + Desktop,2.9,7.9,0.039,0.046,139,80k-100k,"Gourmet Cooking, Music Production"
+592,45-54,Male,Rural,Spanish,PhD,5425,161,Tablet,3.0,4.7,0.052,0.019,45,40k-60k,"Fitness and Wellness, Digital Marketing, Music Production, Photography"
+593,25-34,Female,Urban,Spanish,Master,8618,452,Desktop Only,2.8,6.5,0.172,0.022,14,40k-60k,"Fitness and Wellness, Reading and Literature, Investing and Finance, DIY Crafts"
+594,25-34,Male,Rural,Mandarin,PhD,4803,492,Tablet,3.2,6.9,0.088,0.027,158,100k+,Reading and Literature
+595,55-64,Male,Urban,English,PhD,2806,268,Desktop Only,1.7,5.5,0.178,0.045,72,40k-60k,Software Engineering
+596,35-44,Female,Suburban,Hindi,Master,101,333,Desktop Only,1.8,3.4,0.039,0.065,28,80k-100k,"Eco-Friendly Living, Fashion Modelling, DIY Crafts"
+597,45-54,Female,Rural,English,Bachelor,9325,366,Mobile + Desktop,2.8,4.3,0.063,0.086,82,60k-80k,"Gardening, Music Production, Pet Care"
+598,25-34,Male,Suburban,English,Master,8416,177,Desktop Only,4.1,7.0,0.039,0.029,173,100k+,Gaming
+599,25-34,Male,Suburban,Hindi,Master,1204,185,Mobile Only,0.7,3.1,0.238,0.018,149,80k-100k,Eco-Friendly Living
+600,18-24,Female,Rural,Mandarin,Master,1961,319,Mobile Only,3.2,7.5,0.101,0.038,113,20k-40k,Fitness and Wellness
+601,25-34,Male,Urban,Spanish,Bachelor,5369,300,Mobile Only,4.1,2.6,0.084,0.089,28,100k+,"Eco-Friendly Living, Investing and Finance, Digital Marketing, Reading and Literature"
+602,25-34,Male,Rural,Mandarin,High School,7043,488,Mobile + Desktop,1.2,6.2,0.004,0.001,159,100k+,"Gourmet Cooking, Fitness and Wellness, Digital Marketing"
+603,25-34,Male,Suburban,Mandarin,High School,8420,65,Mobile Only,0.6,5.4,0.038,0.068,11,40k-60k,"Software Engineering, Gourmet Cooking"
+604,18-24,Male,Suburban,English,PhD,537,117,Mobile + Desktop,1.9,6.2,0.105,0.048,77,100k+,"Travel and Adventure, Gardening, Digital Marketing"
+605,18-24,Male,Rural,Spanish,PhD,4946,482,Mobile + Desktop,3.1,4.1,0.017,0.016,111,0-20k,Investing and Finance
+606,35-44,Female,Urban,Spanish,Bachelor,3229,305,Mobile Only,1.1,7.5,0.128,0.032,103,60k-80k,Pet Care
+607,25-34,Female,Urban,Mandarin,Technical,9513,470,Desktop Only,2.4,5.4,0.114,0.022,126,60k-80k,"Fitness and Wellness, Data Science, Music Production"
+608,25-34,Male,Suburban,Hindi,High School,8181,333,Tablet,3.0,3.0,0.192,0.088,16,0-20k,"Software Engineering, Eco-Friendly Living"
+609,35-44,Female,Suburban,Mandarin,PhD,1001,311,Mobile + Desktop,3.2,5.5,0.165,0.048,89,60k-80k,"Eco-Friendly Living, Software Engineering, Music Production, Gaming"
+610,45-54,Female,Urban,Hindi,High School,5498,343,Mobile Only,1.7,3.0,0.111,0.056,7,40k-60k,"Travel and Adventure, Photography, Eco-Friendly Living"
+611,18-24,Male,Rural,Spanish,Bachelor,6778,150,Mobile + Desktop,2.3,3.1,0.056,0.059,83,40k-60k,"Investing and Finance, Digital Marketing, Gaming"
+612,45-54,Male,Suburban,Mandarin,Bachelor,5629,164,Desktop Only,4.0,3.8,0.182,0.064,89,60k-80k,"Reading and Literature, Gardening"
+613,45-54,Female,Urban,English,Technical,6704,271,Desktop Only,4.7,7.0,0.177,0.05,14,0-20k,"Gardening, Investing and Finance, Gaming"
+614,18-24,Male,Suburban,Mandarin,Technical,4018,282,Mobile Only,4.4,4.5,0.038,0.002,37,20k-40k,"DIY Crafts, Digital Marketing"
+615,55-64,Male,Rural,Spanish,Bachelor,1167,429,Mobile + Desktop,3.0,5.8,0.229,0.033,50,60k-80k,DIY Crafts
+616,55-64,Male,Urban,English,PhD,126,241,Tablet,2.3,3.7,0.016,0.018,63,60k-80k,"Photography, Eco-Friendly Living"
+617,18-24,Male,Suburban,English,High School,7037,250,Tablet,2.0,2.8,0.014,0.068,56,0-20k,"Data Science, Fashion Modelling, Gourmet Cooking, Photography"
+618,25-34,Male,Rural,Hindi,Master,7364,364,Mobile + Desktop,1.1,7.7,0.047,0.006,10,20k-40k,"Digital Marketing, Gourmet Cooking, Fashion Modelling"
+619,55-64,Female,Suburban,English,Technical,7218,346,Mobile + Desktop,1.0,5.2,0.227,0.056,134,20k-40k,"Music Production, Fitness and Wellness, Digital Marketing, Reading and Literature"
+620,45-54,Female,Rural,English,Master,647,498,Mobile + Desktop,3.6,7.5,0.13,0.021,33,60k-80k,"Gaming, Data Science"
+621,25-34,Male,Rural,Mandarin,PhD,8858,267,Mobile Only,1.7,2.4,0.197,0.095,123,40k-60k,"Digital Marketing, Gourmet Cooking, Data Science"
+622,25-34,Female,Urban,Spanish,Technical,8995,258,Desktop Only,1.6,2.0,0.057,0.034,172,80k-100k,"Digital Marketing, DIY Crafts, Fitness and Wellness"
+623,25-34,Male,Rural,Hindi,Master,5438,86,Tablet,5.0,7.0,0.123,0.033,101,20k-40k,Eco-Friendly Living
+624,35-44,Female,Suburban,Mandarin,PhD,3240,189,Mobile Only,1.3,5.8,0.09,0.092,72,60k-80k,"Travel and Adventure, Data Science, Fashion Modelling, Gourmet Cooking"
+625,45-54,Male,Rural,English,High School,8096,75,Mobile + Desktop,1.2,2.3,0.207,0.042,161,0-20k,"Investing and Finance, Music Production"
+626,25-34,Male,Rural,English,PhD,1690,317,Mobile + Desktop,0.9,2.9,0.006,0.096,64,60k-80k,"Investing and Finance, Fitness and Wellness, Pet Care"
+627,35-44,Male,Urban,Hindi,Technical,7876,357,Desktop Only,3.1,6.6,0.061,0.002,128,0-20k,"Fitness and Wellness, Gourmet Cooking, DIY Crafts, Investing and Finance"
+628,45-54,Female,Rural,Spanish,Bachelor,5043,180,Mobile + Desktop,3.3,4.2,0.038,0.031,88,40k-60k,Investing and Finance
+629,18-24,Female,Rural,Hindi,High School,9097,483,Mobile Only,2.1,5.7,0.215,0.067,45,80k-100k,"Gardening, Data Science"
+630,25-34,Female,Suburban,Mandarin,Master,7898,31,Mobile Only,2.9,3.2,0.117,0.089,117,100k+,Pet Care
+631,45-54,Male,Urban,Hindi,Technical,3891,376,Desktop Only,4.0,3.7,0.101,0.026,69,0-20k,"Gardening, Investing and Finance, Eco-Friendly Living"
+632,55-64,Female,Urban,English,Bachelor,1457,116,Mobile Only,4.2,7.9,0.112,0.093,83,60k-80k,"Reading and Literature, Photography"
+633,35-44,Male,Urban,Mandarin,PhD,8192,448,Tablet,4.8,2.7,0.243,0.059,67,40k-60k,"Reading and Literature, Eco-Friendly Living"
+634,35-44,Male,Rural,English,Bachelor,3325,332,Mobile Only,4.2,4.5,0.213,0.08,152,20k-40k,"Fashion Modelling, Music Production"
+635,18-24,Male,Urban,Spanish,Technical,2560,236,Mobile Only,3.0,6.9,0.177,0.04,122,40k-60k,"Travel and Adventure, Music Production"
+636,35-44,Female,Rural,English,Technical,8837,453,Mobile Only,1.3,2.7,0.073,0.021,41,20k-40k,Software Engineering
+637,35-44,Female,Rural,English,Bachelor,2828,451,Tablet,0.9,3.9,0.041,0.091,68,60k-80k,"Gourmet Cooking, Eco-Friendly Living"
+638,25-34,Female,Suburban,Hindi,PhD,6826,405,Mobile + Desktop,0.7,5.3,0.23,0.093,90,0-20k,"Data Science, Gourmet Cooking, Pet Care, Fitness and Wellness"
+639,25-34,Female,Suburban,English,Bachelor,7581,225,Mobile Only,3.5,4.4,0.106,0.05,137,40k-60k,"Gourmet Cooking, Gaming"
+640,25-34,Female,Suburban,Mandarin,Technical,6530,78,Desktop Only,4.1,4.2,0.07,0.001,38,0-20k,"Eco-Friendly Living, Gaming, Reading and Literature, Photography"
+641,18-24,Male,Suburban,Mandarin,Technical,3214,93,Tablet,2.8,3.5,0.118,0.011,43,60k-80k,"DIY Crafts, Digital Marketing"
+642,25-34,Male,Suburban,Spanish,Master,716,112,Desktop Only,0.7,5.1,0.229,0.057,71,80k-100k,"Digital Marketing, Reading and Literature, Gourmet Cooking, Investing and Finance"
+643,25-34,Male,Rural,Mandarin,Master,3744,48,Mobile Only,2.9,5.4,0.097,0.002,66,60k-80k,Pet Care
+644,25-34,Male,Rural,Hindi,High School,6513,22,Desktop Only,4.7,5.6,0.141,0.04,92,20k-40k,"Fashion Modelling, Data Science"
+645,18-24,Female,Urban,Spanish,Technical,1303,306,Mobile Only,3.2,1.5,0.201,0.03,156,80k-100k,DIY Crafts
+646,55-64,Male,Rural,Mandarin,Master,2665,322,Tablet,4.1,5.4,0.107,0.071,135,60k-80k,"Reading and Literature, Pet Care, Gaming"
+647,35-44,Female,Rural,Hindi,Bachelor,3274,190,Desktop Only,4.1,7.7,0.058,0.006,113,80k-100k,"Digital Marketing, Fitness and Wellness, Gourmet Cooking"
+648,45-54,Male,Suburban,Mandarin,PhD,3181,277,Desktop Only,4.7,4.8,0.249,0.049,93,40k-60k,"Investing and Finance, Travel and Adventure, Eco-Friendly Living"
+649,45-54,Female,Rural,Mandarin,Bachelor,2730,22,Mobile Only,4.0,6.0,0.239,0.058,71,100k+,"Reading and Literature, Software Engineering"
+650,35-44,Female,Suburban,English,PhD,3261,129,Mobile Only,3.9,4.9,0.211,0.062,83,20k-40k,"Music Production, Reading and Literature, Pet Care, Digital Marketing"
+651,18-24,Female,Urban,Mandarin,Master,4421,467,Mobile + Desktop,1.6,7.0,0.172,0.041,33,60k-80k,Digital Marketing
+652,35-44,Female,Urban,Mandarin,High School,8961,362,Mobile Only,0.8,7.5,0.074,0.03,78,40k-60k,Gourmet Cooking
+653,35-44,Female,Rural,Hindi,Bachelor,6369,66,Mobile Only,2.8,2.3,0.228,0.068,36,20k-40k,"Eco-Friendly Living, Travel and Adventure, DIY Crafts"
+654,45-54,Male,Urban,Hindi,Bachelor,7199,49,Mobile + Desktop,1.1,4.1,0.069,0.085,91,80k-100k,Fashion Modelling
+655,35-44,Female,Rural,English,Bachelor,7476,383,Mobile Only,4.8,3.7,0.2,0.069,43,0-20k,"Travel and Adventure, Music Production, Fashion Modelling"
+656,18-24,Female,Urban,Mandarin,PhD,4178,345,Mobile Only,1.8,3.8,0.23,0.093,141,20k-40k,"Music Production, Photography, Gaming"
+657,25-34,Female,Suburban,English,Master,5901,137,Mobile + Desktop,4.3,1.9,0.151,0.072,105,100k+,"Digital Marketing, Fashion Modelling, Music Production"
+658,25-34,Female,Suburban,Mandarin,Bachelor,4251,182,Tablet,2.2,6.7,0.201,0.076,146,20k-40k,Investing and Finance
+659,45-54,Male,Suburban,Spanish,Bachelor,9011,44,Tablet,2.0,1.3,0.198,0.017,72,40k-60k,"Music Production, Gardening"
+660,35-44,Male,Suburban,Spanish,High School,2700,268,Mobile Only,4.7,4.7,0.048,0.042,152,60k-80k,Data Science
+661,25-34,Male,Rural,English,High School,6275,385,Mobile Only,2.1,5.6,0.167,0.049,32,40k-60k,"Data Science, DIY Crafts, Reading and Literature, Software Engineering"
+662,65+,Female,Urban,English,Master,766,14,Mobile + Desktop,2.3,2.5,0.023,0.026,18,20k-40k,"Digital Marketing, Fashion Modelling, Music Production"
+663,45-54,Male,Rural,English,Master,383,227,Mobile + Desktop,1.0,7.3,0.127,0.053,176,40k-60k,"Gaming, Gourmet Cooking"
+664,25-34,Female,Suburban,Hindi,Technical,5940,20,Tablet,3.5,6.9,0.041,0.029,81,40k-60k,"Software Engineering, Data Science"
+665,18-24,Male,Rural,Hindi,High School,3665,391,Desktop Only,1.8,4.3,0.104,0.069,120,40k-60k,Fashion Modelling
+666,25-34,Male,Urban,Hindi,Technical,4693,336,Mobile Only,3.1,3.9,0.208,0.047,171,60k-80k,"Fitness and Wellness, Data Science, Investing and Finance"
+667,25-34,Male,Rural,English,PhD,1565,126,Desktop Only,3.2,2.7,0.247,0.046,32,60k-80k,"Software Engineering, Eco-Friendly Living"
+668,25-34,Female,Urban,Mandarin,Technical,8421,193,Desktop Only,3.7,6.1,0.079,0.098,93,40k-60k,Data Science
+669,25-34,Male,Rural,Spanish,Bachelor,4834,403,Mobile + Desktop,3.9,1.9,0.133,0.039,36,20k-40k,Gaming
+670,25-34,Male,Urban,English,Technical,6357,371,Mobile Only,2.8,5.8,0.128,0.036,141,40k-60k,Gourmet Cooking
+671,25-34,Female,Urban,Hindi,Master,7466,125,Mobile Only,2.0,6.9,0.239,0.032,160,40k-60k,"Software Engineering, Fitness and Wellness, Reading and Literature, DIY Crafts"
+672,55-64,Female,Suburban,Hindi,PhD,3772,171,Mobile + Desktop,4.3,2.6,0.12,0.089,99,100k+,"Gaming, Music Production, Fashion Modelling, Gardening"
+673,18-24,Male,Urban,English,Bachelor,7482,76,Desktop Only,1.9,7.1,0.175,0.05,21,20k-40k,"Gardening, Fitness and Wellness, DIY Crafts, Gourmet Cooking"
+674,35-44,Male,Suburban,English,Technical,6687,209,Mobile + Desktop,2.8,1.2,0.23,0.06,121,20k-40k,"Fashion Modelling, Eco-Friendly Living, Data Science"
+675,35-44,Female,Suburban,Hindi,PhD,1092,40,Tablet,2.3,7.4,0.093,0.018,81,0-20k,Photography
+676,65+,Female,Suburban,Mandarin,PhD,6958,84,Mobile Only,4.3,1.8,0.226,0.054,59,20k-40k,DIY Crafts
+677,18-24,Female,Rural,Hindi,Bachelor,2221,246,Tablet,2.4,5.5,0.229,0.027,14,60k-80k,"Data Science, Reading and Literature, Gaming, Fashion Modelling"
+678,25-34,Male,Rural,Hindi,Technical,2323,336,Mobile + Desktop,2.2,2.8,0.233,0.073,84,40k-60k,"Gaming, Gourmet Cooking"
+679,65+,Male,Rural,English,PhD,4622,75,Mobile Only,3.6,6.9,0.068,0.083,138,100k+,"Gourmet Cooking, Travel and Adventure, Digital Marketing, Data Science"
+680,55-64,Female,Rural,Mandarin,PhD,3288,79,Tablet,3.2,4.6,0.1,0.071,120,80k-100k,Reading and Literature
+681,55-64,Female,Urban,Hindi,High School,3337,306,Tablet,1.0,1.9,0.218,0.073,173,20k-40k,Travel and Adventure
+682,25-34,Female,Urban,Hindi,PhD,4236,456,Desktop Only,2.8,5.0,0.09,0.051,83,80k-100k,"Fashion Modelling, Travel and Adventure, Gardening, Gaming"
+683,25-34,Female,Rural,Spanish,High School,443,425,Mobile Only,3.8,3.9,0.15,0.071,64,80k-100k,"Pet Care, Digital Marketing"
+684,45-54,Male,Urban,English,Technical,4804,29,Tablet,5.0,5.6,0.03,0.042,46,0-20k,"Fashion Modelling, Gourmet Cooking, Travel and Adventure, Investing and Finance"
+685,55-64,Male,Urban,Spanish,Technical,4923,450,Tablet,3.3,7.2,0.014,0.065,120,20k-40k,"Software Engineering, Digital Marketing"
+686,35-44,Male,Suburban,Spanish,Technical,5020,235,Desktop Only,2.2,3.9,0.103,0.026,113,100k+,"Data Science, Gourmet Cooking"
+687,35-44,Female,Suburban,Hindi,Master,3301,443,Tablet,1.5,3.0,0.145,0.007,75,60k-80k,"DIY Crafts, Reading and Literature, Travel and Adventure"
+688,25-34,Female,Suburban,English,Technical,5571,473,Tablet,4.4,1.1,0.098,0.041,160,100k+,Investing and Finance
+689,45-54,Female,Suburban,Mandarin,PhD,988,418,Tablet,4.2,5.0,0.144,0.046,106,80k-100k,"Digital Marketing, Reading and Literature, Gardening"
+690,25-34,Female,Urban,Hindi,Bachelor,9633,405,Desktop Only,1.6,3.8,0.129,0.026,17,40k-60k,"Gourmet Cooking, Gardening, Pet Care, Digital Marketing"
+691,25-34,Female,Rural,Mandarin,High School,7227,208,Tablet,1.4,3.6,0.171,0.073,19,40k-60k,"Gardening, DIY Crafts, Gaming"
+692,35-44,Male,Urban,Mandarin,Master,3820,48,Tablet,3.7,2.3,0.162,0.007,40,20k-40k,"Gardening, Gaming"
+693,35-44,Male,Urban,English,Technical,2983,154,Mobile Only,1.9,4.0,0.106,0.022,19,20k-40k,"Data Science, Gourmet Cooking"
+694,25-34,Female,Urban,Spanish,Technical,4312,54,Mobile Only,1.9,7.9,0.106,0.075,121,80k-100k,Music Production
+695,18-24,Male,Suburban,English,Bachelor,7061,404,Desktop Only,1.2,3.1,0.035,0.044,79,40k-60k,"Gourmet Cooking, Digital Marketing, Reading and Literature, Eco-Friendly Living"
+696,45-54,Female,Suburban,Mandarin,Bachelor,2515,335,Mobile + Desktop,1.7,5.2,0.128,0.071,60,0-20k,"Data Science, Pet Care, Investing and Finance"
+697,25-34,Female,Suburban,Hindi,Master,9409,390,Mobile Only,2.4,6.4,0.147,0.057,99,100k+,"Fashion Modelling, Gaming"
+698,35-44,Male,Rural,Mandarin,High School,3101,416,Desktop Only,3.8,6.2,0.119,0.095,136,60k-80k,"Gardening, Eco-Friendly Living"
+699,25-34,Female,Urban,Hindi,Technical,1838,100,Tablet,2.0,3.3,0.081,0.06,56,100k+,Fitness and Wellness
+700,35-44,Male,Rural,Hindi,Master,1464,247,Tablet,2.0,5.3,0.18,0.001,142,0-20k,Travel and Adventure
+701,35-44,Female,Suburban,English,PhD,2808,79,Desktop Only,1.8,7.1,0.019,0.035,177,0-20k,"Investing and Finance, Fashion Modelling, Gardening"
+702,18-24,Female,Rural,Mandarin,PhD,1024,175,Tablet,2.7,1.1,0.229,0.014,88,60k-80k,Digital Marketing
+703,25-34,Male,Urban,Spanish,Master,251,139,Tablet,1.3,4.1,0.005,0.092,33,80k-100k,"Eco-Friendly Living, Travel and Adventure"
+704,18-24,Female,Urban,Mandarin,Technical,8877,223,Mobile + Desktop,2.7,2.6,0.241,0.01,57,60k-80k,"Fashion Modelling, Data Science"
+705,18-24,Male,Suburban,Mandarin,Master,8144,349,Tablet,3.7,3.7,0.116,0.039,161,20k-40k,"Investing and Finance, Pet Care"
+706,65+,Female,Suburban,Spanish,Technical,1012,98,Mobile Only,0.6,3.9,0.103,0.023,155,0-20k,"Software Engineering, Fitness and Wellness"
+707,25-34,Female,Rural,English,Bachelor,2421,344,Tablet,0.5,6.2,0.064,0.085,25,100k+,Gourmet Cooking
+708,55-64,Female,Suburban,Mandarin,Master,595,261,Desktop Only,0.8,1.7,0.003,0.031,116,100k+,"Photography, Music Production, Travel and Adventure, Fitness and Wellness"
+709,25-34,Female,Suburban,Mandarin,Technical,2248,378,Mobile + Desktop,2.9,4.6,0.069,0.099,175,80k-100k,"Photography, Investing and Finance, Gardening"
+710,45-54,Female,Urban,Hindi,Master,656,358,Tablet,4.3,4.9,0.027,0.004,142,40k-60k,Reading and Literature
+711,45-54,Female,Suburban,Mandarin,Master,1652,81,Desktop Only,0.5,4.5,0.165,0.013,80,80k-100k,"Eco-Friendly Living, Fitness and Wellness, DIY Crafts"
+712,35-44,Male,Suburban,Spanish,Technical,2220,174,Mobile Only,4.7,6.1,0.08,0.022,34,80k-100k,"Gardening, Digital Marketing, Travel and Adventure, DIY Crafts"
+713,35-44,Male,Urban,Hindi,Technical,3185,58,Tablet,1.0,3.7,0.192,0.081,129,20k-40k,"Gardening, Digital Marketing, Photography"
+714,35-44,Female,Urban,English,High School,3604,61,Mobile + Desktop,4.3,7.6,0.052,0.088,55,20k-40k,"Software Engineering, Travel and Adventure, Gardening"
+715,25-34,Male,Rural,Hindi,Master,256,298,Tablet,2.7,4.4,0.225,0.007,165,80k-100k,"Pet Care, Music Production, Photography, Travel and Adventure"
+716,55-64,Female,Suburban,Spanish,PhD,9026,287,Desktop Only,3.5,5.0,0.131,0.003,150,100k+,Data Science
+717,55-64,Female,Urban,Spanish,Master,7605,123,Mobile + Desktop,2.8,6.8,0.029,0.074,82,20k-40k,Reading and Literature
+718,65+,Male,Rural,Hindi,Master,7262,248,Tablet,2.6,2.9,0.1,0.013,26,100k+,"Fashion Modelling, Travel and Adventure"
+719,18-24,Female,Rural,English,Technical,5623,142,Mobile Only,4.3,1.5,0.052,0.013,68,60k-80k,"Data Science, Eco-Friendly Living"
+720,45-54,Female,Suburban,Hindi,Master,7643,496,Mobile + Desktop,3.9,6.0,0.05,0.002,25,40k-60k,Music Production
+721,55-64,Female,Suburban,English,Master,8155,283,Mobile Only,2.7,4.4,0.127,0.005,133,40k-60k,"Fitness and Wellness, Reading and Literature, Gaming"
+722,25-34,Male,Rural,Hindi,PhD,4754,175,Desktop Only,1.0,7.3,0.168,0.026,111,100k+,"Fitness and Wellness, Eco-Friendly Living, Travel and Adventure"
+723,18-24,Male,Urban,Spanish,Technical,6350,383,Tablet,1.0,7.9,0.228,0.007,120,20k-40k,"Fitness and Wellness, Software Engineering"
+724,45-54,Female,Rural,Mandarin,Master,7346,382,Mobile Only,4.1,3.8,0.126,0.037,128,100k+,Gourmet Cooking
+725,35-44,Male,Suburban,Mandarin,Bachelor,254,302,Desktop Only,2.9,3.9,0.241,0.083,147,80k-100k,"Data Science, Reading and Literature"
+726,55-64,Female,Urban,English,High School,8050,487,Tablet,2.7,3.9,0.235,0.033,40,0-20k,"Gourmet Cooking, Reading and Literature, Gaming, Investing and Finance"
+727,18-24,Male,Urban,English,PhD,1096,252,Desktop Only,3.6,3.3,0.216,0.073,51,0-20k,"Digital Marketing, Gourmet Cooking"
+728,45-54,Female,Rural,English,Master,4726,488,Mobile Only,4.4,6.5,0.125,0.009,36,20k-40k,"Gaming, Investing and Finance, Gourmet Cooking, Travel and Adventure"
+729,25-34,Male,Suburban,Spanish,Bachelor,3005,329,Desktop Only,3.3,6.3,0.035,0.066,178,40k-60k,"Digital Marketing, Data Science, Music Production"
+730,25-34,Male,Rural,Hindi,Master,9469,147,Mobile + Desktop,3.9,4.4,0.054,0.032,58,100k+,"Software Engineering, Travel and Adventure, Investing and Finance"
+731,25-34,Male,Rural,Spanish,Master,253,88,Tablet,3.9,1.3,0.162,0.075,165,20k-40k,"Gaming, Eco-Friendly Living, Software Engineering, Reading and Literature"
+732,55-64,Male,Rural,Mandarin,Technical,7953,179,Desktop Only,2.1,3.2,0.105,0.014,171,100k+,"Eco-Friendly Living, Digital Marketing"
+733,45-54,Female,Urban,English,Technical,6581,132,Mobile Only,1.7,3.0,0.037,0.09,27,40k-60k,"DIY Crafts, Gardening, Pet Care"
+734,35-44,Female,Urban,Hindi,Technical,5699,185,Tablet,4.1,6.7,0.12,0.024,175,40k-60k,"Photography, Music Production, Pet Care"
+735,25-34,Male,Suburban,Mandarin,Bachelor,1816,309,Mobile + Desktop,2.2,1.6,0.004,0.035,6,0-20k,"Software Engineering, Gourmet Cooking, Music Production"
+736,55-64,Female,Suburban,Mandarin,Master,886,91,Tablet,4.6,6.6,0.183,0.095,170,0-20k,"DIY Crafts, Eco-Friendly Living, Pet Care, Digital Marketing"
+737,25-34,Male,Rural,Mandarin,High School,4468,96,Mobile + Desktop,0.8,5.7,0.018,0.058,161,80k-100k,"Photography, Eco-Friendly Living"
+738,55-64,Female,Rural,Spanish,PhD,8196,234,Tablet,0.8,6.1,0.157,0.037,114,0-20k,"DIY Crafts, Eco-Friendly Living, Photography"
+739,35-44,Male,Rural,English,Technical,4372,25,Desktop Only,4.7,4.0,0.198,0.095,128,80k-100k,"Data Science, Pet Care, DIY Crafts, Digital Marketing"
+740,25-34,Female,Suburban,Mandarin,Technical,3867,319,Desktop Only,3.4,5.8,0.033,0.033,71,20k-40k,"Music Production, Software Engineering"
+741,35-44,Male,Urban,English,Master,8934,367,Mobile Only,2.2,5.3,0.13,0.009,75,100k+,"DIY Crafts, Fitness and Wellness"
+742,25-34,Male,Urban,Spanish,Master,6094,172,Mobile + Desktop,3.9,6.4,0.195,0.1,168,100k+,"Software Engineering, Fashion Modelling, Gaming"
+743,45-54,Male,Rural,Mandarin,Bachelor,7316,107,Mobile Only,3.5,4.1,0.065,0.027,33,100k+,"Travel and Adventure, Pet Care, Software Engineering"
+744,35-44,Female,Rural,Spanish,Bachelor,8957,165,Desktop Only,2.9,4.3,0.041,0.085,123,80k-100k,"Software Engineering, Digital Marketing, Travel and Adventure, Fashion Modelling"
+745,25-34,Male,Rural,Spanish,Technical,3526,11,Mobile + Desktop,0.9,5.5,0.084,0.017,169,60k-80k,"Pet Care, Data Science, Travel and Adventure, Fitness and Wellness"
+746,55-64,Female,Rural,English,Master,3883,359,Mobile Only,4.2,1.8,0.139,0.073,117,80k-100k,"Travel and Adventure, Digital Marketing, Gardening, Fashion Modelling"
+747,25-34,Male,Suburban,Mandarin,High School,5527,406,Mobile Only,4.4,4.1,0.144,0.052,49,20k-40k,"Photography, Eco-Friendly Living, Gourmet Cooking, Travel and Adventure"
+748,35-44,Female,Urban,Spanish,PhD,7111,178,Mobile Only,1.3,7.8,0.033,0.098,20,40k-60k,Gardening
+749,55-64,Female,Rural,Mandarin,Master,8152,473,Mobile Only,4.3,1.3,0.114,0.055,35,60k-80k,"Pet Care, Eco-Friendly Living"
+750,45-54,Female,Suburban,English,Master,3801,324,Mobile Only,4.5,3.2,0.067,0.003,166,80k-100k,"Reading and Literature, Fitness and Wellness"
+751,18-24,Male,Rural,Spanish,Bachelor,9361,334,Mobile + Desktop,3.0,3.2,0.211,0.06,54,60k-80k,Travel and Adventure
+752,55-64,Female,Rural,English,PhD,2449,384,Mobile Only,3.5,5.4,0.078,0.015,126,100k+,"Eco-Friendly Living, Travel and Adventure"
+753,45-54,Male,Urban,Mandarin,Technical,7111,101,Mobile + Desktop,2.2,1.7,0.21,0.08,175,20k-40k,Pet Care
+754,25-34,Male,Rural,Mandarin,Master,7155,190,Mobile Only,1.8,5.4,0.107,0.086,19,100k+,"Investing and Finance, Fitness and Wellness"
+755,18-24,Female,Urban,English,Technical,1312,240,Desktop Only,3.7,1.7,0.182,0.048,53,60k-80k,"Digital Marketing, Gaming, Travel and Adventure"
+756,45-54,Male,Urban,Hindi,Master,7065,310,Desktop Only,4.4,1.7,0.128,0.078,176,20k-40k,Pet Care
+757,45-54,Female,Urban,Spanish,Technical,9444,157,Mobile Only,3.4,6.1,0.155,0.015,14,100k+,"Digital Marketing, Investing and Finance, Photography"
+758,35-44,Female,Suburban,Mandarin,PhD,6804,289,Tablet,2.8,3.3,0.099,0.049,24,20k-40k,"Fashion Modelling, Music Production, Travel and Adventure, Reading and Literature"
+759,55-64,Female,Suburban,Mandarin,Bachelor,7533,198,Desktop Only,1.2,7.8,0.192,0.039,74,20k-40k,"Gourmet Cooking, Photography"
+760,45-54,Male,Urban,Spanish,PhD,2611,356,Mobile + Desktop,0.7,1.3,0.106,0.061,12,60k-80k,"Fitness and Wellness, Fashion Modelling, Photography"
+761,25-34,Female,Rural,English,High School,243,359,Mobile Only,2.5,4.1,0.114,0.004,177,20k-40k,"Reading and Literature, Gardening, Fashion Modelling, Eco-Friendly Living"
+762,25-34,Female,Urban,English,Bachelor,7467,323,Mobile + Desktop,0.7,1.8,0.129,0.075,38,60k-80k,"Travel and Adventure, Fitness and Wellness, Data Science"
+763,25-34,Male,Rural,English,PhD,3328,420,Tablet,3.1,3.5,0.208,0.008,8,20k-40k,Investing and Finance
+764,45-54,Female,Urban,Hindi,High School,4682,419,Mobile Only,2.2,8.0,0.165,0.066,112,100k+,"Pet Care, Software Engineering"
+765,18-24,Female,Rural,Hindi,Master,6131,137,Desktop Only,3.9,7.2,0.087,0.002,171,20k-40k,"Reading and Literature, Investing and Finance, Fashion Modelling, Gourmet Cooking"
+766,35-44,Female,Suburban,Mandarin,Master,4343,16,Mobile + Desktop,1.9,1.3,0.168,0.083,28,100k+,"Gourmet Cooking, Digital Marketing, Investing and Finance, Software Engineering"
+767,45-54,Male,Rural,English,Technical,9649,435,Desktop Only,3.2,4.9,0.161,0.017,59,80k-100k,"Fashion Modelling, DIY Crafts, Gourmet Cooking"
+768,55-64,Female,Urban,Spanish,Bachelor,2813,56,Desktop Only,2.9,5.5,0.233,0.052,30,0-20k,Fitness and Wellness
+769,25-34,Male,Suburban,Mandarin,Master,4285,62,Mobile Only,0.5,2.5,0.21,0.026,29,80k-100k,Eco-Friendly Living
+770,55-64,Female,Rural,Spanish,Bachelor,9649,196,Mobile + Desktop,0.8,2.0,0.162,0.072,40,20k-40k,"Travel and Adventure, Reading and Literature"
+771,18-24,Male,Rural,Mandarin,Master,7428,47,Tablet,1.8,7.3,0.085,0.032,75,0-20k,"Software Engineering, Data Science"
+772,55-64,Male,Rural,Hindi,Technical,4733,462,Desktop Only,4.5,7.8,0.195,0.072,16,80k-100k,"Pet Care, Photography, Gaming"
+773,18-24,Male,Rural,Mandarin,PhD,3292,480,Mobile Only,1.2,7.9,0.144,0.028,133,80k-100k,"Travel and Adventure, Software Engineering, Gardening"
+774,25-34,Female,Rural,Hindi,Technical,400,485,Mobile Only,3.7,6.5,0.246,0.075,120,60k-80k,"Gourmet Cooking, Pet Care"
+775,45-54,Male,Suburban,Mandarin,High School,823,235,Tablet,4.9,5.6,0.062,0.003,157,80k-100k,"Gourmet Cooking, Investing and Finance"
+776,18-24,Male,Suburban,English,Master,5794,62,Mobile Only,4.1,3.4,0.02,0.028,137,40k-60k,"Digital Marketing, Fashion Modelling"
+777,25-34,Female,Suburban,Spanish,High School,3110,408,Desktop Only,1.6,2.2,0.017,0.05,87,100k+,"Digital Marketing, Photography, Music Production"
+778,45-54,Male,Suburban,English,High School,5655,233,Mobile Only,4.6,1.6,0.16,0.005,10,0-20k,"Reading and Literature, Software Engineering"
+779,45-54,Female,Urban,Mandarin,Bachelor,167,163,Mobile + Desktop,0.9,5.9,0.235,0.019,30,80k-100k,"Gardening, Reading and Literature"
+780,45-54,Female,Suburban,Mandarin,Master,2606,57,Mobile + Desktop,2.6,6.5,0.0,0.093,117,20k-40k,"Fashion Modelling, Reading and Literature, Gourmet Cooking"
+781,45-54,Male,Rural,Mandarin,High School,1637,360,Desktop Only,4.5,6.8,0.181,0.098,107,0-20k,"Digital Marketing, Reading and Literature"
+782,35-44,Male,Rural,Hindi,PhD,497,156,Mobile + Desktop,3.4,7.4,0.164,0.074,124,0-20k,"Fitness and Wellness, Gourmet Cooking, Eco-Friendly Living"
+783,25-34,Male,Suburban,Spanish,High School,5780,402,Tablet,2.4,7.2,0.183,0.025,171,40k-60k,"Software Engineering, Investing and Finance, Gourmet Cooking, Fitness and Wellness"
+784,25-34,Male,Rural,Spanish,PhD,9455,73,Mobile Only,1.8,8.0,0.089,0.026,13,100k+,"Fashion Modelling, DIY Crafts"
+785,25-34,Male,Suburban,Mandarin,Bachelor,4925,358,Desktop Only,2.2,2.7,0.205,0.065,49,0-20k,"Gardening, Fitness and Wellness, Gourmet Cooking, Investing and Finance"
+786,55-64,Female,Rural,Mandarin,High School,8847,191,Tablet,2.8,6.3,0.011,0.012,18,0-20k,"Software Engineering, Fashion Modelling, Pet Care, Data Science"
+787,35-44,Female,Urban,Hindi,Technical,6148,134,Mobile Only,1.9,5.1,0.189,0.095,116,40k-60k,"Digital Marketing, Photography, Gourmet Cooking, DIY Crafts"
+788,35-44,Female,Urban,English,Bachelor,3761,188,Tablet,4.9,2.8,0.067,0.022,59,100k+,"Digital Marketing, Fashion Modelling, Gardening, Software Engineering"
+789,35-44,Female,Suburban,English,PhD,3041,48,Desktop Only,4.7,7.9,0.119,0.1,141,100k+,"Travel and Adventure, Gourmet Cooking, Gardening"
+790,55-64,Male,Suburban,Spanish,Bachelor,7167,269,Desktop Only,4.4,7.3,0.206,0.05,19,60k-80k,"Investing and Finance, Reading and Literature, Music Production"
+791,25-34,Female,Suburban,Hindi,High School,5191,391,Tablet,2.4,1.9,0.068,0.077,41,60k-80k,"Photography, Data Science"
+792,35-44,Male,Rural,Mandarin,Master,1701,12,Mobile Only,3.6,1.2,0.046,0.0,131,100k+,"Fashion Modelling, Music Production"
+793,35-44,Male,Suburban,Spanish,Master,1580,73,Mobile + Desktop,4.6,5.8,0.17,0.089,121,60k-80k,"Fashion Modelling, Investing and Finance, Music Production"
+794,45-54,Male,Urban,Hindi,PhD,6330,38,Mobile + Desktop,4.3,5.2,0.133,0.027,88,100k+,"Eco-Friendly Living, Fashion Modelling"
+795,18-24,Female,Rural,English,PhD,9394,381,Tablet,2.4,7.6,0.129,0.067,76,100k+,Photography
+796,55-64,Female,Suburban,Hindi,Master,3376,20,Desktop Only,1.0,2.6,0.064,0.081,100,20k-40k,"Pet Care, Gourmet Cooking, Fashion Modelling"
+797,55-64,Male,Rural,English,PhD,6547,106,Mobile Only,0.8,1.6,0.009,0.016,115,0-20k,"Fitness and Wellness, DIY Crafts, Investing and Finance"
+798,35-44,Female,Rural,Hindi,Bachelor,5599,367,Mobile Only,3.1,2.8,0.103,0.044,153,80k-100k,"Travel and Adventure, Music Production, Photography, Gourmet Cooking"
+799,45-54,Female,Suburban,Spanish,Technical,6373,451,Desktop Only,3.4,1.1,0.027,0.049,109,80k-100k,"Photography, Digital Marketing, Music Production, DIY Crafts"
+800,55-64,Female,Rural,English,Technical,1399,212,Mobile + Desktop,4.3,1.3,0.226,0.031,151,80k-100k,Pet Care
+801,45-54,Male,Urban,Spanish,Bachelor,5918,420,Mobile Only,1.8,7.4,0.01,0.048,62,100k+,Investing and Finance
+802,25-34,Female,Urban,Spanish,Technical,6801,490,Tablet,1.3,3.5,0.108,0.032,99,100k+,"Music Production, Digital Marketing"
+803,35-44,Female,Rural,English,High School,5094,30,Mobile + Desktop,2.2,3.9,0.013,0.036,122,80k-100k,"Investing and Finance, Photography, Music Production"
+804,45-54,Female,Suburban,English,Bachelor,7589,48,Tablet,2.1,1.1,0.024,0.067,10,40k-60k,"Gourmet Cooking, Pet Care, Fashion Modelling"
+805,35-44,Male,Rural,Mandarin,PhD,9827,232,Mobile + Desktop,1.1,2.9,0.165,0.063,8,80k-100k,"Data Science, Digital Marketing, Pet Care, DIY Crafts"
+806,45-54,Female,Urban,Mandarin,Bachelor,8369,111,Desktop Only,3.5,6.6,0.162,0.023,47,40k-60k,"Photography, Software Engineering"
+807,55-64,Female,Rural,Mandarin,Master,2931,55,Tablet,2.8,5.3,0.008,0.09,97,60k-80k,"Fitness and Wellness, Data Science"
+808,55-64,Male,Rural,Spanish,PhD,2821,75,Tablet,3.7,6.3,0.0,0.086,46,100k+,"Fitness and Wellness, Travel and Adventure, Gaming"
+809,35-44,Male,Urban,Spanish,Master,1632,100,Desktop Only,2.1,4.1,0.02,0.051,7,80k-100k,"DIY Crafts, Fitness and Wellness"
+810,18-24,Female,Rural,Mandarin,PhD,8529,173,Tablet,2.0,3.2,0.191,0.043,133,60k-80k,"DIY Crafts, Gardening"
+811,65+,Male,Rural,Spanish,Technical,5353,468,Mobile + Desktop,2.6,4.4,0.146,0.038,19,60k-80k,"Gourmet Cooking, Music Production, Investing and Finance"
+812,55-64,Female,Suburban,Spanish,Bachelor,2096,120,Mobile Only,4.4,3.3,0.01,0.071,51,80k-100k,Eco-Friendly Living
+813,18-24,Female,Suburban,English,High School,5411,347,Mobile Only,0.7,6.9,0.122,0.067,89,80k-100k,"Data Science, Reading and Literature"
+814,55-64,Female,Urban,English,PhD,377,132,Desktop Only,4.1,3.1,0.178,0.02,178,60k-80k,"Travel and Adventure, Reading and Literature"
+815,55-64,Female,Urban,Spanish,PhD,3189,202,Mobile + Desktop,2.2,5.6,0.217,0.067,62,60k-80k,"Pet Care, Eco-Friendly Living, DIY Crafts, Digital Marketing"
+816,35-44,Female,Urban,Mandarin,Master,623,456,Tablet,4.3,2.0,0.234,0.025,43,40k-60k,"Fitness and Wellness, Gaming, DIY Crafts"
+817,35-44,Male,Suburban,Hindi,Technical,4375,108,Tablet,4.1,5.8,0.082,0.002,135,20k-40k,"Music Production, Reading and Literature, Fitness and Wellness"
+818,25-34,Male,Urban,Mandarin,Master,5465,300,Mobile Only,2.1,7.4,0.034,0.07,162,60k-80k,Digital Marketing
+819,18-24,Female,Urban,Hindi,Master,3222,168,Tablet,3.6,5.3,0.059,0.064,39,20k-40k,"Gaming, Software Engineering, Gardening"
+820,25-34,Female,Urban,Mandarin,Technical,8267,421,Mobile Only,1.2,4.9,0.194,0.041,161,100k+,Fashion Modelling
+821,55-64,Male,Suburban,English,High School,5290,112,Desktop Only,4.5,7.7,0.243,0.053,56,100k+,Travel and Adventure
+822,18-24,Male,Rural,Spanish,Master,4675,394,Tablet,2.3,5.4,0.117,0.095,122,60k-80k,"Gaming, Eco-Friendly Living, DIY Crafts, Pet Care"
+823,25-34,Female,Urban,Spanish,Master,7827,290,Mobile + Desktop,2.6,2.8,0.076,0.06,18,100k+,Software Engineering
+824,25-34,Female,Rural,English,PhD,1897,52,Tablet,3.7,3.0,0.107,0.066,167,80k-100k,Investing and Finance
+825,35-44,Female,Urban,Hindi,Technical,2231,495,Mobile Only,4.2,5.9,0.076,0.006,160,80k-100k,Photography
+826,55-64,Female,Rural,Hindi,Bachelor,7422,93,Desktop Only,1.6,6.1,0.064,0.017,34,80k-100k,Data Science
+827,25-34,Female,Suburban,Hindi,High School,6600,460,Mobile Only,3.5,3.1,0.148,0.03,94,0-20k,"Digital Marketing, Fitness and Wellness, Software Engineering, Investing and Finance"
+828,25-34,Female,Suburban,English,High School,915,200,Tablet,2.3,3.4,0.004,0.054,139,0-20k,"Reading and Literature, Investing and Finance"
+829,45-54,Female,Urban,Hindi,Technical,8734,60,Mobile Only,2.2,7.9,0.065,0.078,171,60k-80k,Gourmet Cooking
+830,35-44,Female,Rural,English,PhD,6766,395,Mobile Only,3.6,1.7,0.165,0.032,99,40k-60k,"Investing and Finance, Gaming, Data Science"
+831,25-34,Female,Suburban,Mandarin,PhD,242,219,Desktop Only,2.2,3.8,0.008,0.036,73,60k-80k,"Fitness and Wellness, Gardening"
+832,35-44,Male,Urban,Mandarin,Technical,1510,135,Mobile + Desktop,2.1,1.4,0.021,0.026,167,100k+,"Pet Care, Software Engineering, Travel and Adventure, Data Science"
+833,18-24,Male,Urban,English,PhD,634,457,Tablet,4.3,6.7,0.073,0.025,131,100k+,"Data Science, Eco-Friendly Living, Pet Care"
+834,25-34,Female,Suburban,Spanish,High School,3464,467,Desktop Only,1.0,1.6,0.219,0.095,56,0-20k,"Gourmet Cooking, Music Production, Travel and Adventure"
+835,35-44,Female,Suburban,Mandarin,High School,1132,78,Mobile + Desktop,3.5,5.7,0.191,0.064,146,0-20k,"DIY Crafts, Photography, Investing and Finance"
+836,35-44,Female,Urban,Hindi,Bachelor,3442,274,Mobile Only,1.6,1.4,0.006,0.016,67,60k-80k,"DIY Crafts, Digital Marketing, Gardening"
+837,55-64,Male,Rural,English,Technical,9702,267,Mobile + Desktop,0.6,5.7,0.125,0.072,40,0-20k,"Gardening, Travel and Adventure, Eco-Friendly Living"
+838,25-34,Female,Rural,Hindi,Master,6185,427,Mobile Only,1.3,6.9,0.069,0.072,95,0-20k,Investing and Finance
+839,35-44,Female,Rural,Hindi,Master,4600,197,Mobile Only,3.2,3.8,0.162,0.067,156,20k-40k,"Digital Marketing, Gourmet Cooking"
+840,45-54,Male,Urban,Spanish,Bachelor,1272,239,Desktop Only,3.7,4.7,0.18,0.013,172,20k-40k,"Software Engineering, Data Science, Gourmet Cooking"
+841,18-24,Male,Suburban,Hindi,Bachelor,9180,198,Mobile Only,0.6,3.8,0.216,0.041,161,20k-40k,"Gaming, Travel and Adventure"
+842,45-54,Female,Urban,Spanish,PhD,4617,424,Desktop Only,0.7,3.1,0.119,0.011,57,40k-60k,"Pet Care, Data Science, Gourmet Cooking"
+843,25-34,Male,Suburban,Mandarin,Bachelor,8107,19,Mobile + Desktop,4.6,6.6,0.249,0.082,113,60k-80k,"Fashion Modelling, Gardening"
+844,65+,Female,Rural,English,Bachelor,1741,123,Mobile + Desktop,0.8,2.9,0.245,0.066,154,0-20k,"Data Science, Gaming, Fitness and Wellness"
+845,18-24,Female,Rural,Hindi,Master,571,85,Mobile Only,4.5,6.1,0.221,0.051,76,40k-60k,"Data Science, Fitness and Wellness, Fashion Modelling, Investing and Finance"
+846,35-44,Female,Suburban,English,PhD,3040,173,Desktop Only,1.5,2.4,0.144,0.034,19,80k-100k,Gardening
+847,18-24,Male,Suburban,Hindi,Bachelor,8838,94,Mobile Only,3.8,2.7,0.1,0.018,117,0-20k,"Investing and Finance, Photography"
+848,65+,Male,Urban,English,Bachelor,4826,58,Desktop Only,1.9,3.4,0.091,0.011,73,100k+,"Travel and Adventure, Eco-Friendly Living, Digital Marketing, Data Science"
+849,35-44,Male,Rural,Hindi,PhD,7770,335,Desktop Only,4.4,5.1,0.003,0.097,120,40k-60k,Travel and Adventure
+850,35-44,Male,Urban,Hindi,Technical,3823,186,Desktop Only,3.7,4.2,0.062,0.02,8,40k-60k,"DIY Crafts, Travel and Adventure, Software Engineering"
+851,18-24,Male,Urban,Hindi,PhD,463,396,Mobile + Desktop,2.3,6.2,0.18,0.006,79,100k+,"Reading and Literature, Fashion Modelling, Photography"
+852,45-54,Female,Urban,Hindi,Master,3409,467,Desktop Only,0.8,2.5,0.151,0.096,150,60k-80k,"Reading and Literature, Software Engineering, Music Production"
+853,25-34,Male,Rural,Hindi,Technical,645,398,Mobile + Desktop,3.8,1.1,0.229,0.055,46,20k-40k,"Music Production, Software Engineering"
+854,55-64,Male,Urban,Hindi,High School,3340,227,Desktop Only,3.3,6.4,0.013,0.08,34,100k+,"Gardening, Fitness and Wellness, Photography"
+855,25-34,Female,Urban,Hindi,PhD,6765,198,Mobile + Desktop,0.5,6.8,0.039,0.004,147,0-20k,"DIY Crafts, Eco-Friendly Living"
+856,25-34,Male,Urban,Hindi,Master,2036,478,Tablet,0.5,1.4,0.197,0.057,74,80k-100k,"Gaming, Software Engineering"
+857,18-24,Male,Urban,Hindi,Technical,9254,355,Mobile + Desktop,4.1,5.3,0.09,0.04,20,60k-80k,"Reading and Literature, Travel and Adventure, Fitness and Wellness"
+858,35-44,Male,Urban,English,PhD,982,239,Mobile + Desktop,1.7,3.6,0.03,0.077,115,80k-100k,"Data Science, Eco-Friendly Living, Reading and Literature, DIY Crafts"
+859,35-44,Female,Urban,Spanish,Bachelor,3940,264,Mobile Only,3.4,6.6,0.249,0.004,108,80k-100k,"Reading and Literature, Gourmet Cooking, DIY Crafts"
+860,18-24,Female,Rural,Hindi,PhD,7023,245,Desktop Only,2.5,7.1,0.197,0.04,111,20k-40k,"Digital Marketing, Gourmet Cooking"
+861,45-54,Male,Urban,Spanish,High School,9162,35,Tablet,4.4,7.0,0.102,0.08,127,40k-60k,Gaming
+862,35-44,Male,Suburban,Hindi,PhD,4711,81,Mobile Only,4.6,6.4,0.206,0.052,166,20k-40k,"DIY Crafts, Gardening, Fitness and Wellness, Reading and Literature"
+863,35-44,Male,Urban,Hindi,Technical,9157,270,Desktop Only,5.0,2.9,0.17,0.055,31,40k-60k,Reading and Literature
+864,35-44,Male,Urban,English,Technical,5304,263,Tablet,1.2,6.7,0.197,0.01,17,0-20k,"Investing and Finance, Digital Marketing"
+865,35-44,Female,Rural,Mandarin,PhD,7388,280,Tablet,4.4,4.7,0.204,0.013,159,80k-100k,"Gaming, Travel and Adventure, Reading and Literature"
+866,35-44,Male,Rural,Mandarin,Technical,3303,132,Tablet,1.7,1.4,0.021,0.068,77,20k-40k,"DIY Crafts, Fitness and Wellness, Fashion Modelling, Investing and Finance"
+867,25-34,Female,Suburban,English,Bachelor,2344,153,Desktop Only,3.2,4.2,0.156,0.068,90,40k-60k,Investing and Finance
+868,25-34,Male,Suburban,Spanish,PhD,118,266,Tablet,2.8,7.6,0.002,0.098,35,40k-60k,"Software Engineering, Reading and Literature, Investing and Finance, Photography"
+869,55-64,Male,Rural,Mandarin,Bachelor,741,153,Tablet,0.6,7.2,0.011,0.071,7,80k-100k,"Fashion Modelling, Data Science, Music Production"
+870,55-64,Female,Rural,English,Bachelor,3183,430,Mobile Only,4.7,1.7,0.226,0.049,34,60k-80k,"Investing and Finance, Photography, Travel and Adventure"
+871,25-34,Male,Urban,English,Master,5300,268,Mobile + Desktop,0.9,6.2,0.132,0.086,153,0-20k,"Music Production, Eco-Friendly Living"
+872,25-34,Female,Rural,Mandarin,PhD,8621,445,Desktop Only,3.6,6.6,0.184,0.01,103,80k-100k,"Travel and Adventure, Music Production, Eco-Friendly Living"
+873,45-54,Female,Suburban,Spanish,Technical,965,56,Mobile + Desktop,4.0,2.9,0.21,0.045,138,60k-80k,"Gourmet Cooking, Investing and Finance, Fashion Modelling, Reading and Literature"
+874,35-44,Male,Urban,English,Bachelor,873,360,Mobile Only,4.1,4.3,0.237,0.029,164,60k-80k,"Digital Marketing, Fashion Modelling, Reading and Literature"
+875,18-24,Female,Suburban,Hindi,Master,4832,22,Mobile + Desktop,1.1,6.0,0.217,0.01,174,0-20k,"Data Science, Travel and Adventure, Reading and Literature, Investing and Finance"
+876,25-34,Male,Urban,Spanish,PhD,3618,385,Tablet,2.5,4.1,0.121,0.076,164,20k-40k,"Investing and Finance, Eco-Friendly Living, Photography, Gaming"
+877,45-54,Male,Rural,Spanish,PhD,6895,217,Tablet,4.2,1.8,0.084,0.051,103,80k-100k,Travel and Adventure
+878,45-54,Male,Suburban,Mandarin,High School,7084,320,Desktop Only,1.9,5.9,0.039,0.056,90,60k-80k,"Fashion Modelling, Fitness and Wellness, Software Engineering, Photography"
+879,18-24,Female,Urban,Mandarin,High School,2667,244,Desktop Only,2.6,7.4,0.1,0.041,171,20k-40k,"Music Production, Eco-Friendly Living, Digital Marketing"
+880,25-34,Female,Urban,Hindi,Bachelor,1774,158,Desktop Only,1.7,5.6,0.092,0.046,68,80k-100k,"Gourmet Cooking, Fashion Modelling, Eco-Friendly Living, Investing and Finance"
+881,25-34,Female,Rural,English,High School,839,331,Mobile Only,2.6,6.4,0.14,0.012,122,40k-60k,"Fashion Modelling, Travel and Adventure, Gardening, Data Science"
+882,45-54,Female,Rural,Mandarin,Bachelor,1645,447,Desktop Only,4.5,3.5,0.166,0.067,162,40k-60k,Reading and Literature
+883,18-24,Female,Rural,Mandarin,Technical,9427,164,Mobile Only,2.5,2.3,0.245,0.043,118,100k+,"Software Engineering, Eco-Friendly Living, Investing and Finance"
+884,18-24,Female,Suburban,Spanish,Bachelor,5227,175,Tablet,3.0,5.5,0.182,0.082,163,100k+,Fitness and Wellness
+885,45-54,Male,Urban,Mandarin,High School,7047,99,Mobile + Desktop,2.3,3.3,0.161,0.02,91,20k-40k,"Eco-Friendly Living, Fitness and Wellness, Gaming, Music Production"
+886,25-34,Female,Rural,Mandarin,Technical,6720,195,Tablet,2.6,7.0,0.084,0.021,44,60k-80k,"Reading and Literature, Music Production"
+887,45-54,Male,Suburban,Mandarin,High School,9165,327,Tablet,0.6,1.9,0.009,0.065,165,60k-80k,"Eco-Friendly Living, Gaming, Reading and Literature, Digital Marketing"
+888,25-34,Female,Suburban,Mandarin,Bachelor,4655,367,Tablet,1.8,4.0,0.072,0.085,29,40k-60k,"DIY Crafts, Fashion Modelling"
+889,18-24,Female,Suburban,Spanish,Master,5745,183,Desktop Only,2.5,3.8,0.192,0.047,168,100k+,"Travel and Adventure, Fashion Modelling, Music Production"
+890,25-34,Male,Rural,Hindi,PhD,9043,226,Desktop Only,3.4,7.6,0.051,0.073,156,20k-40k,Travel and Adventure
+891,45-54,Male,Rural,Hindi,High School,7224,404,Desktop Only,2.5,2.1,0.178,0.1,99,60k-80k,"Data Science, Reading and Literature, Pet Care"
+892,55-64,Female,Urban,English,Bachelor,9145,465,Mobile + Desktop,2.0,1.1,0.145,0.099,171,100k+,"Gardening, Investing and Finance, Music Production"
+893,55-64,Male,Urban,Mandarin,Technical,3832,273,Desktop Only,2.2,2.7,0.043,0.074,50,40k-60k,Fitness and Wellness
+894,25-34,Male,Rural,Spanish,High School,2383,106,Mobile Only,1.6,6.7,0.065,0.074,142,20k-40k,"Software Engineering, Fitness and Wellness, Fashion Modelling"
+895,45-54,Female,Suburban,English,High School,9621,126,Tablet,4.7,2.5,0.124,0.025,36,60k-80k,"Gaming, Software Engineering"
+896,25-34,Female,Suburban,English,PhD,8769,208,Mobile + Desktop,2.8,2.7,0.105,0.083,101,0-20k,"Gaming, Investing and Finance, Pet Care, Music Production"
+897,25-34,Male,Suburban,Hindi,Bachelor,7098,329,Mobile + Desktop,0.6,1.9,0.195,0.041,168,0-20k,"Eco-Friendly Living, Gourmet Cooking, Fitness and Wellness, Software Engineering"
+898,55-64,Male,Urban,Spanish,Master,5513,495,Mobile + Desktop,0.6,6.0,0.184,0.096,160,60k-80k,"Fitness and Wellness, Photography, Fashion Modelling"
+899,18-24,Female,Suburban,Spanish,Technical,1369,30,Mobile + Desktop,4.9,1.5,0.144,0.008,148,40k-60k,Fitness and Wellness
+900,18-24,Male,Urban,Spanish,Bachelor,7968,209,Mobile + Desktop,1.5,3.3,0.206,0.044,20,20k-40k,"Gardening, DIY Crafts, Data Science, Investing and Finance"
+901,25-34,Female,Urban,Hindi,Technical,2703,380,Mobile Only,4.1,3.0,0.141,0.056,22,100k+,"Fitness and Wellness, Pet Care"
+902,18-24,Male,Suburban,Hindi,High School,6061,456,Tablet,0.8,4.9,0.241,0.041,140,20k-40k,"Gardening, Eco-Friendly Living, Music Production"
+903,25-34,Female,Suburban,Hindi,PhD,9761,350,Mobile + Desktop,4.6,6.1,0.054,0.021,79,60k-80k,Photography
+904,35-44,Male,Rural,Hindi,PhD,8669,457,Tablet,4.4,4.7,0.179,0.059,5,60k-80k,Reading and Literature
+905,35-44,Male,Rural,Hindi,Master,7657,257,Desktop Only,3.1,7.5,0.092,0.076,129,100k+,"Music Production, Fitness and Wellness"
+906,55-64,Male,Suburban,Mandarin,PhD,1780,285,Mobile + Desktop,0.5,7.7,0.07,0.064,42,20k-40k,"Eco-Friendly Living, Travel and Adventure, Digital Marketing"
+907,55-64,Female,Urban,Mandarin,High School,8533,273,Mobile + Desktop,1.7,3.5,0.045,0.023,49,0-20k,"Pet Care, Music Production, Data Science"
+908,25-34,Female,Urban,Spanish,Master,9211,67,Tablet,2.3,6.4,0.138,0.073,85,20k-40k,"Gardening, Gaming, Digital Marketing, Photography"
+909,25-34,Female,Urban,English,Bachelor,5782,311,Mobile + Desktop,2.6,6.2,0.054,0.026,133,40k-60k,Gourmet Cooking
+910,25-34,Female,Urban,Spanish,PhD,8184,40,Mobile + Desktop,1.8,7.3,0.05,0.018,36,20k-40k,Pet Care
+911,35-44,Male,Urban,English,Master,5467,258,Mobile + Desktop,0.6,4.1,0.248,0.069,140,100k+,"Eco-Friendly Living, Reading and Literature, Music Production"
+912,25-34,Female,Rural,Hindi,High School,169,102,Mobile Only,3.2,4.7,0.2,0.084,122,60k-80k,"Gaming, DIY Crafts, Gardening, Eco-Friendly Living"
+913,45-54,Female,Suburban,English,Technical,4024,274,Mobile Only,2.9,3.9,0.187,0.048,44,60k-80k,"Gourmet Cooking, Gaming, Fashion Modelling, DIY Crafts"
+914,35-44,Male,Rural,Spanish,Technical,6300,280,Mobile + Desktop,1.8,7.0,0.199,0.053,78,20k-40k,"Investing and Finance, Music Production, Fitness and Wellness, Fashion Modelling"
+915,35-44,Male,Urban,Spanish,High School,2107,103,Mobile Only,0.7,2.6,0.242,0.03,115,80k-100k,"DIY Crafts, Gourmet Cooking, Fitness and Wellness"
+916,35-44,Male,Urban,English,High School,9092,163,Desktop Only,5.0,2.7,0.143,0.049,107,60k-80k,"Music Production, Fashion Modelling, Pet Care, Photography"
+917,25-34,Female,Urban,Mandarin,Technical,8219,403,Mobile + Desktop,2.7,3.6,0.055,0.013,107,40k-60k,"Gourmet Cooking, Investing and Finance, Fashion Modelling"
+918,55-64,Male,Urban,Hindi,Master,2879,294,Desktop Only,3.9,2.6,0.216,0.096,78,0-20k,"Investing and Finance, Gourmet Cooking, Fashion Modelling"
+919,45-54,Male,Suburban,Hindi,Technical,5020,89,Tablet,2.5,4.9,0.186,0.08,168,0-20k,"Pet Care, Photography, Gaming, Data Science"
+920,18-24,Male,Urban,Spanish,High School,855,301,Desktop Only,0.7,1.9,0.104,0.067,118,80k-100k,"Reading and Literature, Travel and Adventure"
+921,55-64,Male,Suburban,Mandarin,PhD,6595,93,Tablet,1.9,3.2,0.118,0.054,127,20k-40k,"Digital Marketing, Travel and Adventure"
+922,35-44,Male,Urban,English,Bachelor,6035,374,Mobile + Desktop,1.9,7.4,0.103,0.079,61,80k-100k,"Investing and Finance, DIY Crafts"
+923,55-64,Female,Suburban,Hindi,PhD,9613,383,Tablet,4.3,3.9,0.232,0.049,78,40k-60k,"Eco-Friendly Living, Photography, Music Production"
+924,45-54,Male,Rural,Mandarin,PhD,2430,46,Tablet,3.4,6.2,0.086,0.03,87,80k-100k,DIY Crafts
+925,35-44,Male,Urban,Hindi,High School,5805,351,Desktop Only,1.7,1.8,0.241,0.016,177,80k-100k,"Digital Marketing, Reading and Literature, Investing and Finance, Software Engineering"
+926,18-24,Female,Suburban,Mandarin,Technical,8401,336,Desktop Only,4.9,2.7,0.228,0.065,83,100k+,"Data Science, DIY Crafts"
+927,25-34,Female,Rural,Mandarin,Master,1116,416,Desktop Only,1.9,6.7,0.158,0.093,134,40k-60k,"Pet Care, Gardening, Music Production, Software Engineering"
+928,35-44,Male,Urban,Spanish,PhD,7447,434,Mobile + Desktop,5.0,6.3,0.145,0.015,97,0-20k,"Software Engineering, Reading and Literature, Fashion Modelling, DIY Crafts"
+929,45-54,Female,Urban,Hindi,Technical,8316,241,Mobile + Desktop,5.0,3.7,0.093,0.018,54,40k-60k,"Gardening, Photography, Eco-Friendly Living, Pet Care"
+930,25-34,Female,Urban,English,Master,5038,102,Desktop Only,1.4,7.7,0.005,0.043,33,20k-40k,"Gardening, Eco-Friendly Living"
+931,18-24,Female,Suburban,Spanish,PhD,2938,345,Mobile + Desktop,1.9,7.4,0.032,0.081,85,100k+,"DIY Crafts, Photography, Eco-Friendly Living, Data Science"
+932,55-64,Male,Suburban,Spanish,Master,837,111,Mobile + Desktop,2.7,7.7,0.189,0.029,14,100k+,"Digital Marketing, Reading and Literature"
+933,65+,Female,Rural,English,Technical,6300,421,Tablet,3.5,4.0,0.118,0.025,159,100k+,Gourmet Cooking
+934,35-44,Female,Suburban,Spanish,Bachelor,8471,441,Tablet,2.9,2.4,0.037,0.062,121,100k+,"Music Production, Gaming, Fitness and Wellness"
+935,25-34,Male,Suburban,Mandarin,Technical,331,175,Desktop Only,4.9,5.4,0.066,0.054,147,100k+,"Software Engineering, Digital Marketing"
+936,25-34,Female,Urban,Mandarin,High School,2017,168,Mobile + Desktop,3.8,5.8,0.237,0.006,64,0-20k,"Gardening, Data Science"
+937,18-24,Female,Urban,Hindi,Master,8634,23,Tablet,1.5,1.9,0.092,0.008,163,20k-40k,"Eco-Friendly Living, Software Engineering"
+938,55-64,Male,Urban,Hindi,Bachelor,6018,382,Mobile Only,1.0,6.5,0.227,0.064,153,100k+,"Investing and Finance, Music Production"
+939,18-24,Female,Urban,English,Master,2723,234,Mobile + Desktop,3.6,1.1,0.076,0.047,64,40k-60k,"Reading and Literature, Gaming"
+940,35-44,Female,Urban,Hindi,Master,8746,82,Mobile Only,1.2,4.4,0.136,0.097,62,40k-60k,"Gourmet Cooking, Photography, Eco-Friendly Living"
+941,25-34,Female,Urban,Mandarin,PhD,6501,258,Desktop Only,4.0,3.3,0.005,0.068,173,100k+,"Gardening, Fitness and Wellness"
+942,35-44,Female,Urban,English,High School,7172,100,Mobile + Desktop,1.9,6.2,0.13,0.001,178,20k-40k,"Gardening, Pet Care, Software Engineering"
+943,45-54,Male,Rural,English,Master,2376,225,Desktop Only,2.0,3.2,0.159,0.048,49,40k-60k,"DIY Crafts, Music Production, Photography, Pet Care"
+944,55-64,Female,Rural,Hindi,Technical,7493,470,Desktop Only,0.5,6.8,0.059,0.041,128,60k-80k,"Data Science, Investing and Finance"
+945,25-34,Female,Rural,Mandarin,Technical,8887,99,Desktop Only,3.7,5.2,0.145,0.011,30,60k-80k,Gardening
+946,18-24,Female,Rural,English,PhD,3974,38,Desktop Only,1.0,6.6,0.162,0.092,106,80k-100k,Digital Marketing
+947,18-24,Male,Urban,Mandarin,High School,4630,444,Desktop Only,4.0,7.9,0.172,0.081,55,40k-60k,"Data Science, Fashion Modelling, Pet Care, Gardening"
+948,55-64,Female,Rural,Mandarin,High School,7264,314,Mobile + Desktop,2.7,5.8,0.194,0.023,168,60k-80k,Music Production
+949,55-64,Female,Urban,Mandarin,Technical,4597,436,Mobile Only,4.0,7.9,0.078,0.026,56,60k-80k,"Fitness and Wellness, Eco-Friendly Living"
+950,35-44,Male,Rural,Hindi,Bachelor,8033,485,Mobile + Desktop,3.1,1.2,0.142,0.003,55,40k-60k,"Fitness and Wellness, Gaming, Gourmet Cooking"
+951,45-54,Male,Suburban,Spanish,PhD,2235,229,Mobile + Desktop,0.9,3.4,0.245,0.03,135,20k-40k,"Music Production, Pet Care, Investing and Finance"
+952,45-54,Male,Rural,Spanish,PhD,6827,337,Mobile + Desktop,3.9,1.8,0.225,0.058,18,100k+,"Investing and Finance, Gourmet Cooking, Travel and Adventure, Fashion Modelling"
+953,25-34,Male,Rural,English,Technical,1665,224,Tablet,0.8,2.8,0.238,0.042,5,100k+,"Gourmet Cooking, Software Engineering, Reading and Literature"
+954,55-64,Female,Urban,Mandarin,Technical,408,230,Tablet,2.7,6.9,0.097,0.097,149,20k-40k,"Gaming, Investing and Finance, Music Production"
+955,35-44,Female,Rural,Hindi,Bachelor,8634,398,Mobile + Desktop,1.3,1.2,0.197,0.006,18,20k-40k,"Pet Care, Gaming"
+956,25-34,Male,Suburban,Mandarin,Bachelor,8727,51,Mobile Only,3.9,4.6,0.155,0.059,85,100k+,"Gaming, Gardening, Software Engineering"
+957,35-44,Male,Urban,Mandarin,High School,8468,144,Mobile + Desktop,4.6,5.0,0.021,0.086,7,60k-80k,Digital Marketing
+958,18-24,Male,Urban,Hindi,PhD,238,51,Desktop Only,3.0,4.9,0.206,0.048,102,40k-60k,"Travel and Adventure, Fashion Modelling, Gaming, Digital Marketing"
+959,25-34,Male,Rural,Spanish,PhD,293,173,Tablet,2.9,4.3,0.169,0.0,44,80k-100k,"Travel and Adventure, Music Production, Gaming"
+960,45-54,Female,Urban,Mandarin,Technical,3357,370,Tablet,3.9,6.5,0.05,0.024,93,40k-60k,Gaming
+961,18-24,Female,Urban,Mandarin,High School,3335,292,Mobile + Desktop,0.5,1.9,0.02,0.032,129,20k-40k,"Pet Care, Travel and Adventure, Software Engineering, Data Science"
+962,45-54,Male,Urban,Spanish,PhD,1042,67,Mobile + Desktop,4.6,3.2,0.209,0.097,166,40k-60k,"Gourmet Cooking, Investing and Finance"
+963,25-34,Male,Urban,Hindi,High School,4720,311,Mobile Only,1.4,5.3,0.02,0.091,99,40k-60k,"Gaming, Gourmet Cooking, Software Engineering, Data Science"
+964,25-34,Male,Urban,English,High School,5820,331,Mobile Only,4.9,5.8,0.023,0.095,13,40k-60k,"Fitness and Wellness, Gaming, Pet Care, Music Production"
+965,25-34,Female,Urban,Spanish,Technical,6453,34,Desktop Only,3.8,3.8,0.107,0.083,98,100k+,Gourmet Cooking
+966,25-34,Male,Suburban,English,High School,5057,82,Mobile + Desktop,4.0,7.1,0.034,0.035,88,20k-40k,"DIY Crafts, Fashion Modelling, Eco-Friendly Living, Software Engineering"
+967,45-54,Male,Rural,English,Bachelor,9245,382,Mobile + Desktop,3.5,3.9,0.228,0.091,25,60k-80k,"Data Science, Investing and Finance"
+968,25-34,Male,Suburban,Spanish,Bachelor,9594,420,Mobile + Desktop,2.6,3.8,0.118,0.098,29,100k+,Gaming
+969,35-44,Male,Urban,Mandarin,Master,3481,138,Tablet,3.1,1.3,0.142,0.035,106,60k-80k,"DIY Crafts, Fitness and Wellness, Software Engineering, Gourmet Cooking"
+970,35-44,Male,Urban,English,Technical,5939,96,Desktop Only,0.7,4.9,0.232,0.026,126,20k-40k,"Investing and Finance, Software Engineering, Data Science, Fitness and Wellness"
+971,45-54,Female,Rural,English,Master,2980,339,Mobile Only,3.3,6.0,0.133,0.055,176,40k-60k,"Data Science, Travel and Adventure"
+972,55-64,Male,Suburban,Hindi,Bachelor,4987,435,Tablet,3.3,1.8,0.088,0.019,29,20k-40k,"Gourmet Cooking, Fitness and Wellness, DIY Crafts"
+973,45-54,Male,Rural,Mandarin,Master,645,445,Tablet,4.5,3.1,0.199,0.003,141,40k-60k,"Fashion Modelling, Reading and Literature, Gardening, Eco-Friendly Living"
+974,25-34,Male,Suburban,English,Technical,2027,162,Tablet,2.8,6.5,0.111,0.095,107,20k-40k,"Investing and Finance, Photography, Travel and Adventure, Fashion Modelling"
+975,18-24,Female,Urban,Hindi,Technical,4252,191,Tablet,0.8,3.6,0.08,0.093,158,60k-80k,Investing and Finance
+976,25-34,Male,Rural,Mandarin,High School,104,134,Desktop Only,1.9,2.7,0.181,0.016,61,0-20k,"Reading and Literature, Music Production"
+977,35-44,Male,Rural,Spanish,PhD,5633,76,Mobile + Desktop,3.5,5.7,0.2,0.041,41,40k-60k,Music Production
+978,18-24,Female,Urban,Spanish,High School,9654,15,Mobile Only,1.6,2.4,0.198,0.083,20,40k-60k,"Fashion Modelling, Fitness and Wellness, Software Engineering"
+979,35-44,Male,Rural,Hindi,Technical,5478,134,Mobile Only,1.8,7.3,0.244,0.066,41,100k+,"Music Production, Pet Care, Fashion Modelling, Digital Marketing"
+980,35-44,Female,Suburban,Spanish,Bachelor,6333,323,Tablet,4.2,1.7,0.197,0.039,80,80k-100k,"Travel and Adventure, Gardening"
+981,25-34,Female,Suburban,English,Bachelor,2763,335,Tablet,3.1,5.9,0.192,0.074,156,20k-40k,"DIY Crafts, Travel and Adventure, Digital Marketing"
+982,45-54,Male,Suburban,Mandarin,High School,9565,62,Desktop Only,2.8,4.5,0.214,0.09,30,40k-60k,"Fashion Modelling, Pet Care, Data Science, Travel and Adventure"
+983,18-24,Female,Suburban,English,Technical,3426,75,Tablet,1.9,7.1,0.0,0.093,24,20k-40k,"Reading and Literature, Digital Marketing, Eco-Friendly Living"
+984,18-24,Male,Urban,English,Bachelor,3759,323,Mobile Only,3.8,1.9,0.091,0.038,141,100k+,"Gourmet Cooking, Fashion Modelling, Software Engineering, Investing and Finance"
+985,45-54,Male,Rural,Spanish,Technical,1231,91,Mobile Only,1.8,5.7,0.184,0.017,107,20k-40k,"Software Engineering, Pet Care, DIY Crafts"
+986,35-44,Female,Suburban,English,Bachelor,4863,96,Mobile + Desktop,3.8,5.0,0.15,0.091,33,0-20k,"Pet Care, Gourmet Cooking, Eco-Friendly Living, Music Production"
+987,45-54,Male,Urban,Spanish,Technical,6837,11,Mobile + Desktop,0.8,4.4,0.044,0.009,35,80k-100k,"Investing and Finance, Gardening"
+988,35-44,Female,Rural,Mandarin,Master,5192,213,Mobile Only,4.4,4.4,0.076,0.072,23,40k-60k,Travel and Adventure
+989,25-34,Female,Rural,Mandarin,Technical,6122,159,Mobile Only,2.7,6.1,0.084,0.014,152,0-20k,"Data Science, Investing and Finance, Photography, Eco-Friendly Living"
+990,55-64,Female,Urban,English,Technical,3259,302,Desktop Only,2.5,7.6,0.142,0.039,31,80k-100k,"Gardening, Fitness and Wellness, Photography, Music Production"
+991,45-54,Female,Urban,Hindi,High School,6259,413,Desktop Only,3.2,1.6,0.208,0.041,98,60k-80k,"Travel and Adventure, Photography, Reading and Literature"
+992,45-54,Female,Suburban,Spanish,Master,7418,112,Mobile Only,3.3,1.1,0.233,0.016,89,80k-100k,"Travel and Adventure, Pet Care"
+993,25-34,Male,Rural,Spanish,PhD,8545,33,Tablet,1.1,6.6,0.188,0.092,48,20k-40k,Fashion Modelling
+994,35-44,Female,Rural,English,High School,5407,377,Mobile + Desktop,3.9,1.8,0.211,0.0,167,60k-80k,"Reading and Literature, Music Production, Fitness and Wellness, Fashion Modelling"
+995,25-34,Female,Urban,Spanish,PhD,8620,221,Mobile Only,1.7,7.9,0.118,0.089,117,40k-60k,"Investing and Finance, Fashion Modelling"
+996,18-24,Female,Rural,Spanish,Bachelor,3144,74,Tablet,4.6,5.3,0.097,0.088,154,100k+,"Data Science, Fitness and Wellness, Eco-Friendly Living"
+997,55-64,Female,Suburban,Hindi,PhD,9712,458,Mobile Only,4.2,5.6,0.098,0.032,78,100k+,Gardening
+998,18-24,Male,Rural,Hindi,Technical,5736,218,Mobile + Desktop,2.1,2.4,0.154,0.07,91,100k+,"Investing and Finance, Data Science, Photography, Gourmet Cooking"
+999,65+,Male,Urban,English,PhD,2992,260,Mobile + Desktop,4.1,2.7,0.031,0.025,147,60k-80k,"Data Science, Eco-Friendly Living, Gaming, Travel and Adventure"
+1000,35-44,Female,Urban,Hindi,High School,5388,394,Desktop Only,2.1,5.6,0.145,0.076,98,40k-60k,"Data Science, DIY Crafts, Gaming"
